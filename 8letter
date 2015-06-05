@@ -1,0 +1,2351 @@
+C:\jdk1.6.0\bin\java -Didea.launcher.port=7540 "-Didea.launcher.bin.path=C:\Program Files (x86)\JetBrains\IntelliJ IDEA 9.0.4\bin" -Dfile.encoding=windows-1252 -classpath "C:\Users\eyaremenko\warmups\warmup\target\classes;C:\jdk1.6.0\jre\lib\alt-rt.jar;C:\jdk1.6.0\jre\lib\charsets.jar;C:\jdk1.6.0\jre\lib\deploy.jar;C:\jdk1.6.0\jre\lib\javaws.jar;C:\jdk1.6.0\jre\lib\jce.jar;C:\jdk1.6.0\jre\lib\jsse.jar;C:\jdk1.6.0\jre\lib\management-agent.jar;C:\jdk1.6.0\jre\lib\plugin.jar;C:\jdk1.6.0\jre\lib\resources.jar;C:\jdk1.6.0\jre\lib\rt.jar;C:\jdk1.6.0\jre\lib\ext\dnsns.jar;C:\jdk1.6.0\jre\lib\ext\localedata.jar;C:\jdk1.6.0\jre\lib\ext\sunjce_provider.jar;C:\Program Files (x86)\JetBrains\IntelliJ IDEA 9.0.4\lib\idea_rt.jar" com.intellij.rt.execution.application.AppMain info.lynxnet.warmups.LargestWordSquareFinder
+Started at: Thu Dec 09 13:54:40 PST 2010
+Preprocessing...
+Time spent so far: 0
+Variants checked: 1(1 per second)
+				Trying:
+					aardvark
+Time spent so far: 18
+Variants checked: 10000001(526315 per second)
+				Trying:
+					abasedly
+					bacchant
+					accredit
+					screeded
+Time spent so far: 35
+Variants checked: 20000001(555555 per second)
+				Trying:
+					abbacies
+					bionomic
+					botchers
+					ancients
+					cohesive
+Time spent so far: 53
+Variants checked: 30000001(555555 per second)
+				Trying:
+					abducing
+					burnouts
+					drowsing
+					unwetted
+					costards
+Time spent so far: 70
+Variants checked: 40000001(563380 per second)
+				Trying:
+					abhorrer
+					blankets
+					haircuts
+					onrushes
+Time spent so far: 88
+Variants checked: 50000001(561797 per second)
+				Trying:
+					abomasus
+					bruiters
+					outlived
+					millilux
+Time spent so far: 105
+Variants checked: 60000001(566037 per second)
+				Trying:
+					abraders
+					blethers
+					rebaters
+					ataraxic
+Time spent so far: 123
+Variants checked: 70000001(564516 per second)
+				Trying:
+					abrosias
+					bravoing
+					rareripe
+					overbred
+					sorbable
+Time spent so far: 140
+Variants checked: 80000001(567375 per second)
+				Trying:
+					abscisin
+					bethumps
+					steading
+					chapbook
+Time spent so far: 158
+Variants checked: 90000001(566037 per second)
+				Trying:
+					abseiled
+					butyrous
+					stresses
+					eyepiece
+Time spent so far: 175
+Variants checked: 100000001(568181 per second)
+				Trying:
+					absolved
+					bleeding
+					sensible
+Time spent so far: 193
+Variants checked: 110000001(567010 per second)
+				Trying:
+					abstract
+					behoving
+					sherbert
+					tornados
+Time spent so far: 211
+Variants checked: 120000001(566037 per second)
+				Trying:
+					abutilon
+					binnacle
+					unsicker
+Time spent so far: 228
+Variants checked: 130000001(567685 per second)
+				Trying:
+					acapnias
+					cadastre
+					adhering
+					paesanos
+Time spent so far: 246
+Variants checked: 140000001(566801 per second)
+				Trying:
+					acauline
+					contrite
+					analysed
+Time spent so far: 263
+Variants checked: 150000001(568181 per second)
+				Trying:
+					accented
+					coagency
+					cartouch
+Time spent so far: 281
+Variants checked: 160000001(567375 per second)
+				Trying:
+					acceptee
+					croppies
+					conioses
+Time spent so far: 298
+Variants checked: 170000001(568561 per second)
+				Trying:
+					accessed
+					coonties
+					contract
+					entrains
+					straiter
+Time spent so far: 315
+Variants checked: 180000001(569620 per second)
+				Trying:
+					accidias
+					coapting
+					cannibal
+Time spent so far: 333
+Variants checked: 190000001(568862 per second)
+				Trying:
+					accorded
+					coinable
+					citation
+					onanisms
+					rationed
+Time spent so far: 350
+Variants checked: 200000001(569800 per second)
+				Trying:
+					accouter
+					chousing
+					costumey
+					outglare
+Time spent so far: 368
+Variants checked: 210000001(569105 per second)
+				Trying:
+					accretes
+					celerity
+					cleverly
+					revetted
+					erethism
+Time spent so far: 385
+Variants checked: 220000001(569948 per second)
+				Trying:
+					accuracy
+					courante
+					curators
+					uranides
+					rational
+Time spent so far: 403
+Variants checked: 230000001(569306 per second)
+				Trying:
+					accusals
+					coonties
+					consents
+					unstrung
+					sterigma
+Time spent so far: 420
+Variants checked: 240000001(570071 per second)
+				Trying:
+					accusers
+					cranched
+					cavettos
+					uneasily
+Time spent so far: 437
+Variants checked: 250000001(570776 per second)
+				Trying:
+					accustom
+					cronyism
+					collared
+					unloosen
+Time spent so far: 455
+Variants checked: 260000001(570175 per second)
+				Trying:
+					acervuli
+					capeskin
+					epidural
+					redesign
+Time spent so far: 472
+Variants checked: 270000001(570824 per second)
+				Trying:
+					acetones
+					cocreate
+					eclipsis
+					tritones
+Time spent so far: 489
+Variants checked: 280000001(571428 per second)
+				Trying:
+					achiness
+					cyanines
+					hardhack
+					indigent
+Time spent so far: 507
+Variants checked: 290000001(570866 per second)
+				Trying:
+					aciculum
+					coolants
+					iodation
+					clappers
+Time spent so far: 525
+Variants checked: 300000001(570342 per second)
+				Trying:
+					acrasias
+					charpoys
+					raisonne
+					arsenals
+					spongins
+Time spent so far: 542
+Variants checked: 310000001(570902 per second)
+				Trying:
+					acridest
+					chessmen
+					residers
+Time spent so far: 559
+Variants checked: 320000001(571428 per second)
+				Trying:
+					acrodont
+					clearing
+					recoiler
+Time spent so far: 577
+Variants checked: 330000001(570934 per second)
+				Trying:
+					acromial
+					clevises
+					revelled
+					overlies
+					millages
+Time spent so far: 594
+Variants checked: 340000001(571428 per second)
+				Trying:
+					acrostic
+					crippler
+					rinsible
+					opsonify
+					spinally
+Time spent so far: 612
+Variants checked: 350000001(570962 per second)
+				Trying:
+					actinism
+					crumpets
+					turpeths
+					imposted
+Time spent so far: 629
+Variants checked: 360000001(571428 per second)
+				Trying:
+					activist
+					ctenidia
+					teetotum
+					intimacy
+Time spent so far: 647
+Variants checked: 370000001(570987 per second)
+				Trying:
+					actuated
+					corniest
+					trickier
+					uncially
+Time spent so far: 665
+Variants checked: 380000001(570570 per second)
+				Trying:
+					adamants
+					debrides
+					absurdly
+Time spent so far: 682
+Variants checked: 390000001(571010 per second)
+				Trying:
+					adaptive
+					decouple
+					actinias
+					pointing
+Time spent so far: 699
+Variants checked: 400000001(571428 per second)
+				Trying:
+					adenitis
+					demonist
+					emending
+					nonguest
+					inducing
+Time spent so far: 717
+Variants checked: 410000001(571030 per second)
+				Trying:
+					admasses
+					dratting
+					maharaja
+					atavists
+					strivers
+Time spent so far: 734
+Variants checked: 420000001(571428 per second)
+				Trying:
+					adoption
+					divorcer
+					overawed
+					porously
+					trauchle
+Time spent so far: 751
+Variants checked: 430000001(571808 per second)
+				Trying:
+					adsorber
+					dapperer
+					splasher
+					opaquely
+					resupply
+Time spent so far: 769
+Variants checked: 440000001(571428 per second)
+				Trying:
+					aerating
+					enuresis
+					ruralite
+					araceous
+					teleplay
+Time spent so far: 786
+Variants checked: 450000001(571791 per second)
+				Trying:
+					aerobics
+					eyebrows
+					realizer
+					oblatory
+					brittler
+Time spent so far: 804
+Variants checked: 460000001(571428 per second)
+				Trying:
+					aerosats
+					eleventh
+					revealer
+					overlend
+					sealskin
+Time spent so far: 821
+Variants checked: 470000001(571776 per second)
+				Trying:
+					afebrile
+					facially
+					ectozoan
+					biotopes
+Time spent so far: 839
+Variants checked: 480000001(571428 per second)
+				Trying:
+					affixers
+					frontons
+					footling
+					intercom
+Time spent so far: 856
+Variants checked: 490000001(571761 per second)
+				Trying:
+					affrayer
+					foretime
+					fraction
+					recusant
+Time spent so far: 873
+Variants checked: 500000001(572082 per second)
+				Trying:
+					agatizes
+					gynandry
+					anolytes
+					tallisim
+Time spent so far: 891
+Variants checked: 510000001(571748 per second)
+				Trying:
+					agminate
+					granters
+					massless
+					instance
+Time spent so far: 908
+Variants checked: 520000001(572057 per second)
+				Trying:
+					agrestic
+					goethite
+					relearns
+Time spent so far: 926
+Variants checked: 530000001(571736 per second)
+				Trying:
+					aircoach
+					idolisms
+					ropiness
+					clinally
+Time spent so far: 943
+Variants checked: 540000001(572033 per second)
+				Trying:
+					airparks
+					iterates
+					repolled
+					promiser
+Time spent so far: 960
+Variants checked: 550000001(572320 per second)
+				Trying:
+					airships
+					icemaker
+					redouble
+					smoothed
+					hautboys
+Time spent so far: 978
+Variants checked: 560000001(572012 per second)
+				Trying:
+					alamodes
+					lameness
+					amylenes
+					melodias
+Time spent so far: 995
+Variants checked: 570000001(572289 per second)
+				Trying:
+					albumose
+					leotards
+					bordered
+Time spent so far: 1012
+Variants checked: 580000001(572556 per second)
+				Trying:
+					alfresco
+					lyrebird
+					fringing
+					renegado
+Time spent so far: 1030
+Variants checked: 590000001(572259 per second)
+				Trying:
+					allotypy
+					leaviest
+					ladening
+					overween
+					tinworks
+Time spent so far: 1048
+Variants checked: 600000001(571973 per second)
+				Trying:
+					altoists
+					larrikin
+					truckles
+Time spent so far: 1066
+Variants checked: 610000001(571696 per second)
+				Trying:
+					amaretti
+					midwives
+					advisory
+Time spent so far: 1083
+Variants checked: 620000001(571955 per second)
+				Trying:
+					amassing
+					mistuned
+					assistor
+					stingily
+Time spent so far: 1100
+Variants checked: 630000001(572207 per second)
+				Trying:
+					ambrosia
+					milepost
+					blastoff
+					respites
+					opticist
+					sootiest
+Time spent so far: 1119
+Variants checked: 640000001(571428 per second)
+				Trying:
+					amercing
+					merengue
+					erythron
+					retwists
+Time spent so far: 1136
+Variants checked: 650000001(571679 per second)
+				Trying:
+					amidases
+					minishes
+					indecent
+					diereses
+					ascended
+Time spent so far: 1154
+Variants checked: 660000001(571428 per second)
+				Trying:
+					amitrole
+					monerans
+					intimacy
+					teiglach
+Time spent so far: 1171
+Variants checked: 670000001(571672 per second)
+				Trying:
+					amphorae
+					meagerly
+					patriots
+Time spent so far: 1189
+Variants checked: 680000001(571428 per second)
+				Trying:
+					amusable
+					muntings
+					unrounds
+					stoutens
+Time spent so far: 1206
+Variants checked: 690000001(571665 per second)
+				Trying:
+					anagogic
+					ninepins
+					anemosis
+					gemmiest
+Time spent so far: 1224
+Variants checked: 700000001(571428 per second)
+				Trying:
+					anarchic
+					noselike
+					ashfalls
+					reformat
+					clarions
+Time spent so far: 1241
+Variants checked: 710000001(571658 per second)
+				Trying:
+					anergias
+					nonelect
+					encloser
+					released
+Time spent so far: 1259
+Variants checked: 720000001(571428 per second)
+				Trying:
+					anisette
+					nontruth
+					interior
+					stealths
+Time spent so far: 1276
+Variants checked: 730000001(571652 per second)
+				Trying:
+					anthelia
+					nurturer
+					tripping
+Time spent so far: 1293
+Variants checked: 740000001(571870 per second)
+				Trying:
+					anureses
+					nonevent
+					unbenign
+Time spent so far: 1311
+Variants checked: 750000001(571646 per second)
+				Trying:
+					apatites
+					pishogue
+					ascended
+					thermion
+Time spent so far: 1328
+Variants checked: 760000001(571858 per second)
+				Trying:
+					aphasias
+					presplit
+					hessites
+					assurers
+					spiracle
+Time spent so far: 1346
+Variants checked: 770000001(571640 per second)
+				Trying:
+					aphorism
+					pranging
+					hatchery
+					oncidium
+Time spent so far: 1363
+Variants checked: 780000001(571847 per second)
+				Trying:
+					aplasias
+					placates
+					latticed
+					actinide
+					sainting
+Time spent so far: 1380
+Variants checked: 790000001(572049 per second)
+				Trying:
+					apologal
+					plumeria
+					outyield
+Time spent so far: 1398
+Variants checked: 800000001(571837 per second)
+				Trying:
+					apostate
+					portrait
+					organums
+					stammels
+Time spent so far: 1415
+Variants checked: 810000001(572033 per second)
+				Trying:
+					appanage
+					pointing
+					pivotman
+					anopsias
+Time spent so far: 1432
+Variants checked: 820000001(572226 per second)
+				Trying:
+					apparels
+					protatic
+					podocarp
+					atomiser
+Time spent so far: 1449
+Variants checked: 830000001(572413 per second)
+				Trying:
+					appeared
+					phantoms
+					patchers
+					enchoric
+					athodyds
+Time spent so far: 1467
+Variants checked: 840000001(572207 per second)
+				Trying:
+					appellee
+					prepacks
+					pedicles
+					epithets
+Time spent so far: 1485
+Variants checked: 850000001(572005 per second)
+				Trying:
+					appestat
+					procures
+					poetiser
+					ectomere
+Time spent so far: 1502
+Variants checked: 860000001(572188 per second)
+				Trying:
+					appliers
+					palisade
+					plumbago
+					limacons
+Time spent so far: 1520
+Variants checked: 870000001(571992 per second)
+				Trying:
+					apposing
+					pearling
+					paraquat
+					orangier
+Time spent so far: 1537
+Variants checked: 880000001(572171 per second)
+				Trying:
+					apprised
+					preemies
+					pentanes
+					reticent
+Time spent so far: 1554
+Variants checked: 890000001(572347 per second)
+				Trying:
+					apprizer
+					paradors
+					prurient
+					rarefies
+Time spent so far: 1571
+Variants checked: 900000001(572519 per second)
+				Trying:
+					approval
+					porously
+					prosties
+					rostella
+					outeaten
+Time spent so far: 1589
+Variants checked: 910000001(572327 per second)
+				Trying:
+					appulses
+					platonic
+					papistry
+Time spent so far: 1606
+Variants checked: 920000001(572495 per second)
+				Trying:
+					apricots
+					pranging
+					radwaste
+					inweaved
+Time spent so far: 1624
+Variants checked: 930000001(572307 per second)
+				Trying:
+					arabicas
+					recaning
+					acoustic
+					baudekin
+					inserted
+Time spent so far: 1641
+Variants checked: 940000001(572472 per second)
+				Trying:
+					arachnid
+					righties
+					agrestal
+					cheddite
+Time spent so far: 1659
+Variants checked: 950000001(572289 per second)
+				Trying:
+					arborous
+					reechoed
+					begulfed
+					ocularly
+Time spent so far: 1676
+Variants checked: 960000001(572450 per second)
+				Trying:
+					archaism
+					rhodamin
+					copyedit
+Time spent so far: 1694
+Variants checked: 970000001(572271 per second)
+				Trying:
+					arenites
+					remotest
+					emprizes
+					normande
+Time spent so far: 1711
+Variants checked: 980000001(572429 per second)
+				Trying:
+					armament
+					reenacts
+					megalith
+					analyzer
+Time spent so far: 1729
+Variants checked: 990000001(572254 per second)
+				Trying:
+					aromatic
+					revolver
+					overfill
+					morasses
+Time spent so far: 1747
+Variants checked: 1000000001(572082 per second)
+				Trying:
+					arrestee
+					rhonchus
+					rowlocks
+					enlarger
+					scorners
+Time spent so far: 1764
+Variants checked: 1010000001(572237 per second)
+				Trying:
+					arsenous
+					railways
+					sidebars
+					elevates
+Time spent so far: 1782
+Variants checked: 1020000001(572069 per second)
+				Trying:
+					arugulas
+					renailed
+					unironed
+					garroter
+Time spent so far: 1799
+Variants checked: 1030000001(572222 per second)
+				Trying:
+					asbestus
+					shantung
+					battiest
+					entrains
+Time spent so far: 1816
+Variants checked: 1040000001(572372 per second)
+				Trying:
+					ascended
+					scaphoid
+					carbides
+Time spent so far: 1834
+Variants checked: 1050000001(572207 per second)
+				Trying:
+					ascetics
+					standpat
+					callipee
+					enlisted
+Time spent so far: 1851
+Variants checked: 1060000001(572354 per second)
+				Trying:
+					ascocarp
+					smoulder
+					contagia
+					outfired
+					claimant
+Time spent so far: 1869
+Variants checked: 1070000001(572192 per second)
+				Trying:
+					ascribed
+					squalors
+					cuddlier
+					radiated
+					illation
+Time spent so far: 1886
+Variants checked: 1080000001(572337 per second)
+				Trying:
+					ashiness
+					scablike
+					hazzanim
+Time spent so far: 1903
+Variants checked: 1090000001(572478 per second)
+				Trying:
+					asparkle
+					scantest
+					partible
+Time spent so far: 1921
+Variants checked: 1100000001(572320 per second)
+				Trying:
+					asperges
+					shippons
+					pinitols
+					epilogue
+Time spent so far: 1938
+Variants checked: 1110000001(572460 per second)
+				Trying:
+					asperser
+					schnooks
+					phratric
+					enamines
+					rotifers
+Time spent so far: 1956
+Variants checked: 1120000001(572304 per second)
+				Trying:
+					aspersor
+					surnames
+					prettify
+					entitled
+					rattails
+Time spent so far: 1974
+Variants checked: 1130000001(572151 per second)
+				Trying:
+					asphodel
+					speiling
+					petronel
+					hireable
+Time spent so far: 1992
+Variants checked: 1140000001(572002 per second)
+				Trying:
+					aspirata
+					stinkbug
+					pitchmen
+					incident
+Time spent so far: 2009
+Variants checked: 1150000001(572139 per second)
+				Trying:
+					aspirins
+					scramjet
+					prigging
+Time spent so far: 2026
+Variants checked: 1160000001(572274 per second)
+				Trying:
+					assailed
+					soundest
+					sultanas
+					antiskid
+Time spent so far: 2043
+Variants checked: 1170000001(572407 per second)
+				Trying:
+					assassin
+					sleepers
+					serranos
+					aeriform
+Time spent so far: 2059
+Variants checked: 1180000001(572815 per second)
+				Trying:
+					assayers
+					sectoral
+					scrapple
+					ataghans
+Time spent so far: 2076
+Variants checked: 1190000001(572941 per second)
+				Trying:
+					assegais
+					stapelia
+					satirise
+					epidemic
+					gerenuks
+Time spent so far: 2093
+Variants checked: 1200000001(573065 per second)
+				Trying:
+					assented
+					standish
+					salpians
+Time spent so far: 2110
+Variants checked: 1210000001(573188 per second)
+				Trying:
+					asserter
+					sacrings
+					scarring
+					errantry
+Time spent so far: 2127
+Variants checked: 1220000001(573308 per second)
+				Trying:
+					assessed
+					stanzaed
+					savagism
+					enabling
+Time spent so far: 2144
+Variants checked: 1230000001(573426 per second)
+				Trying:
+					assessor
+					stunting
+					succubas
+					encumber
+					stumpers
+Time spent so far: 2161
+Variants checked: 1240000001(573543 per second)
+				Trying:
+					assignee
+					squalene
+					superadd
+Time spent so far: 2177
+Variants checked: 1250000001(573921 per second)
+				Trying:
+					assisted
+					swankest
+					salvoing
+					inviscid
+Time spent so far: 2194
+Variants checked: 1260000001(574031 per second)
+				Trying:
+					assoiled
+					slyboots
+					synergic
+					obeyable
+Time spent so far: 2211
+Variants checked: 1270000001(574141 per second)
+				Trying:
+					assuaged
+					shelvers
+					septical
+					ultrahot
+					aviation
+Time spent so far: 2228
+Variants checked: 1280000001(574248 per second)
+				Trying:
+					assuming
+					scurvies
+					subacrid
+Time spent so far: 2245
+Variants checked: 1290000001(574354 per second)
+				Trying:
+					assuring
+					slurries
+					subtitle
+					urticant
+Time spent so far: 2262
+Variants checked: 1300000001(574458 per second)
+				Trying:
+					asswages
+					squirter
+					superior
+					wieldier
+Time spent so far: 2278
+Variants checked: 1310000001(574813 per second)
+				Trying:
+					asterias
+					scorepad
+					tonearms
+					erectile
+					reattain
+Time spent so far: 2295
+Variants checked: 1320000001(574912 per second)
+				Trying:
+					asteroid
+					starkest
+					takeover
+					erective
+Time spent so far: 2312
+Variants checked: 1330000001(575010 per second)
+				Trying:
+					astomous
+					shoulder
+					tostados
+					outsized
+Time spent so far: 2330
+Variants checked: 1340000001(574860 per second)
+				Trying:
+					astragal
+					shrewdie
+					trudgeon
+					redenied
+Time spent so far: 2346
+Variants checked: 1350000001(575202 per second)
+				Trying:
+					astricts
+					serenity
+					trichite
+					recoiled
+Time spent so far: 2363
+Variants checked: 1360000001(575296 per second)
+				Trying:
+					astutely
+					stannite
+					talkfest
+					unkinked
+Time spent so far: 2380
+Variants checked: 1370000001(575388 per second)
+				Trying:
+					atheisms
+					troubler
+					hospices
+					euphoria
+Time spent so far: 2397
+Variants checked: 1380000001(575479 per second)
+				Trying:
+					atrazine
+					teaching
+					raptness
+					actively
+Time spent so far: 2414
+Variants checked: 1390000001(575569 per second)
+				Trying:
+					atropism
+					tzarists
+					radicels
+					origanum
+Time spent so far: 2430
+Variants checked: 1400000001(575894 per second)
+				Trying:
+					attacker
+					triposes
+					timolols
+					apologia
+					cologned
+Time spent so far: 2447
+Variants checked: 1410000001(575980 per second)
+				Trying:
+					attested
+					taiglach
+					tirrivee
+					egresses
+Time spent so far: 2463
+Variants checked: 1420000001(576298 per second)
+				Trying:
+					attorney
+					trinkets
+					tilefish
+Time spent so far: 2480
+Variants checked: 1430000001(576380 per second)
+				Trying:
+					auditory
+					urinates
+					dipstick
+					insouled
+Time spent so far: 2497
+Variants checked: 1440000001(576461 per second)
+				Trying:
+					austerer
+					unwished
+					swampier
+					timeline
+Time spent so far: 2513
+Variants checked: 1450000001(576770 per second)
+				Trying:
+					avarices
+					vagility
+					agendums
+					ringlike
+Time spent so far: 2530
+Variants checked: 1460000001(576847 per second)
+				Trying:
+					avoucher
+					veinlike
+					oilstone
+					unsubtly
+Time spent so far: 2547
+Variants checked: 1470000001(576923 per second)
+				Trying:
+					babbitts
+					abrasion
+					bractlet
+					backfire
+Time spent so far: 2564
+Variants checked: 1480000001(576998 per second)
+				Trying:
+					babushka
+					amentias
+					beadsman
+					underpay
+Time spent so far: 2580
+Variants checked: 1490000001(577295 per second)
+				Trying:
+					baccarat
+					allocate
+					clinched
+					conepatl
+Time spent so far: 2596
+Variants checked: 1500000001(577589 per second)
+				Trying:
+					bacchant
+					aphasics
+					charpoys
+					caressed
+Time spent so far: 2613
+Variants checked: 1510000001(577658 per second)
+				Trying:
+					backbeat
+					adherend
+					chayotes
+					keywords
+					brooking
+Time spent so far: 2631
+Variants checked: 1520000001(577507 per second)
+				Trying:
+					backhand
+					araneids
+					caloyers
+					knotters
+Time spent so far: 2649
+Variants checked: 1530000001(577358 per second)
+				Trying:
+					backsaws
+					aboiteau
+					coscript
+					kickiest
+					stripers
+Time spent so far: 2666
+Variants checked: 1540000001(577427 per second)
+				Trying:
+					backwash
+					atheroma
+					chresard
+Time spent so far: 2683
+Variants checked: 1550000001(577496 per second)
+				Trying:
+					badassed
+					acidotic
+					dissuade
+					adscript
+Time spent so far: 2700
+Variants checked: 1560000001(577563 per second)
+				Trying:
+					bafflers
+					ataraxia
+					fagoting
+					fromages
+Time spent so far: 2717
+Variants checked: 1570000001(577630 per second)
+				Trying:
+					bahadurs
+					araceous
+					halachot
+					acaulous
+					decliner
+Time spent so far: 2734
+Variants checked: 1580000001(577696 per second)
+				Trying:
+					baldrics
+					amoretti
+					lobation
+					drapable
+					retaping
+Time spent so far: 2751
+Variants checked: 1590000001(577761 per second)
+				Trying:
+					balsamic
+					adapters
+					labiates
+					spindled
+Time spent so far: 2768
+Variants checked: 1600000001(577825 per second)
+				Trying:
+					bandsman
+					aboiteau
+					noisette
+					dissaves
+					stearate
+Time spent so far: 2784
+Variants checked: 1610000001(578096 per second)
+				Trying:
+					baptised
+					acaulous
+					pawnshop
+					tuneable
+Time spent so far: 2801
+Variants checked: 1620000001(578158 per second)
+				Trying:
+					baptists
+					amaretto
+					paradrop
+					traction
+Time spent so far: 2818
+Variants checked: 1630000001(578219 per second)
+				Trying:
+					barbaric
+					aberrant
+					recorded
+					browless
+Time spent so far: 2835
+Variants checked: 1640000001(578279 per second)
+				Trying:
+					barbeque
+					aperient
+					regimens
+					bricoles
+Time spent so far: 2852
+Variants checked: 1650000001(578338 per second)
+				Trying:
+					barbicel
+					aneroids
+					resaddle
+					brassard
+Time spent so far: 2868
+Variants checked: 1660000001(578598 per second)
+				Trying:
+					barchans
+					alehouse
+					retarget
+					chambers
+Time spent so far: 2884
+Variants checked: 1670000001(578856 per second)
+				Trying:
+					baresark
+					amending
+					reptilia
+					entozoan
+Time spent so far: 2901
+Variants checked: 1680000001(578911 per second)
+				Trying:
+					bargemen
+					axiology
+					riesling
+					gossiper
+					elliptic
+Time spent so far: 2918
+Variants checked: 1690000001(578965 per second)
+				Trying:
+					barnlike
+					acauline
+					ratafees
+Time spent so far: 2936
+Variants checked: 1700000001(578821 per second)
+				Trying:
+					barrages
+					avellane
+					receding
+Time spent so far: 2953
+Variants checked: 1710000001(578876 per second)
+				Trying:
+					barstool
+					adaption
+					ramified
+					spiffily
+Time spent so far: 2969
+Variants checked: 1720000001(579124 per second)
+				Trying:
+					bartisan
+					acerbity
+					revolute
+					troutier
+Time spent so far: 2986
+Variants checked: 1730000001(579176 per second)
+				Trying:
+					bascules
+					accorded
+					scampish
+					complete
+Time spent so far: 3002
+Variants checked: 1740000001(579420 per second)
+				Trying:
+					baseless
+					alumines
+					suspends
+					empirics
+Time spent so far: 3019
+Variants checked: 1750000001(579470 per second)
+				Trying:
+					basicity
+					attrited
+					stooging
+					ironized
+Time spent so far: 3036
+Variants checked: 1760000001(579519 per second)
+				Trying:
+					basinets
+					apanages
+					saddling
+					indictor
+Time spent so far: 3053
+Variants checked: 1770000001(579567 per second)
+				Trying:
+					basseted
+					alchemic
+					screener
+					sherbets
+Time spent so far: 3069
+Variants checked: 1780000001(579804 per second)
+				Trying:
+					bassists
+					acetonic
+					selenide
+					stemmers
+Time spent so far: 3086
+Variants checked: 1790000001(579850 per second)
+				Trying:
+					bassoons
+					abampere
+					saneness
+					smeeking
+Time spent so far: 3102
+Variants checked: 1800000001(580083 per second)
+				Trying:
+					basswood
+					attested
+					stickups
+					sections
+Time spent so far: 3119
+Variants checked: 1810000001(580128 per second)
+				Trying:
+					bastardy
+					attemper
+					starched
+					tergites
+Time spent so far: 3135
+Variants checked: 1820000001(580357 per second)
+				Trying:
+					bastings
+					aguelike
+					subabbot
+					teabowls
+Time spent so far: 3152
+Variants checked: 1830000001(580399 per second)
+				Trying:
+					batchers
+					auriform
+					troubled
+Time spent so far: 3169
+Variants checked: 1840000001(580441 per second)
+				Trying:
+					bathroom
+					avouches
+					toothing
+Time spent so far: 3185
+Variants checked: 1850000001(580665 per second)
+				Trying:
+					batterie
+					acerbest
+					tenorite
+					trotters
+Time spent so far: 3202
+Variants checked: 1860000001(580705 per second)
+				Trying:
+					bawcocks
+					aphorism
+					whatever
+					cottagey
+Time spent so far: 3218
+Variants checked: 1870000001(580925 per second)
+				Trying:
+					beaconed
+					entastic
+					athletes
+					calycine
+Time spent so far: 3235
+Variants checked: 1880000001(580964 per second)
+				Trying:
+					beamlike
+					equating
+					auntlier
+					mattrass
+Time spent so far: 3252
+Variants checked: 1890000001(581002 per second)
+				Trying:
+					beasties
+					emenders
+					aerostat
+					snogging
+Time spent so far: 3268
+Variants checked: 1900000001(581217 per second)
+				Trying:
+					becalmed
+					ejecting
+					centroid
+					activize
+Time spent so far: 3285
+Variants checked: 1910000001(581253 per second)
+				Trying:
+					beclamor
+					europium
+					crispens
+Time spent so far: 3302
+Variants checked: 1920000001(581289 per second)
+				Trying:
+					becudgel
+					egyptian
+					cypselae
+					upsurges
+Time spent so far: 3319
+Variants checked: 1930000001(581325 per second)
+				Trying:
+					bedazzle
+					etamines
+					dahabieh
+					amassers
+Time spent so far: 3335
+Variants checked: 1940000001(581534 per second)
+				Trying:
+					bedevils
+					epigrams
+					disallow
+Time spent so far: 3352
+Variants checked: 1950000001(581568 per second)
+				Trying:
+					bedplate
+					enervate
+					defoamed
+					proximal
+Time spent so far: 3368
+Variants checked: 1960000001(581775 per second)
+				Trying:
+					bedsides
+					eyebeams
+					deflates
+Time spent so far: 3385
+Variants checked: 1970000001(581807 per second)
+				Trying:
+					bedstraw
+					epitases
+					dimerize
+					steerage
+					tarriers
+Time spent so far: 3401
+Variants checked: 1980000001(582010 per second)
+				Trying:
+					beefcake
+					emulsion
+					eulogise
+					flotilla
+Time spent so far: 3418
+Variants checked: 1990000001(582041 per second)
+				Trying:
+					befuddle
+					eringoes
+					fidgeter
+					ungirded
+Time spent so far: 3435
+Variants checked: 2000000001(582072 per second)
+				Trying:
+					beheaded
+					evenness
+					headways
+					endeared
+Time spent so far: 3452
+Variants checked: 2010000001(582102 per second)
+				Trying:
+					belfried
+					exorcize
+					longwise
+Time spent so far: 3468
+Variants checked: 2020000001(582300 per second)
+				Trying:
+					bemiring
+					eminence
+					misfires
+					infamies
+					reimport
+Time spent so far: 3485
+Variants checked: 2030000001(582329 per second)
+				Trying:
+					benomyls
+					epicarps
+					niceness
+					oceanaut
+					mannites
+Time spent so far: 3501
+Variants checked: 2040000001(582524 per second)
+				Trying:
+					berating
+					exegetic
+					retrains
+					agrarian
+					teardrop
+Time spent so far: 3518
+Variants checked: 2050000001(582551 per second)
+				Trying:
+					bereaves
+					erepsins
+					recocked
+					epopoeia
+					ascocarp
+Time spent so far: 3535
+Variants checked: 2060000001(582579 per second)
+				Trying:
+					berouged
+					eternals
+					remotest
+					orometer
+					untether
+Time spent so far: 3552
+Variants checked: 2070000001(582606 per second)
+				Trying:
+					bescorch
+					enthrall
+					stramash
+					charkhas
+Time spent so far: 3568
+Variants checked: 2080000001(582796 per second)
+				Trying:
+					bescreen
+					entozoal
+					stunners
+					consider
+Time spent so far: 3587
+Variants checked: 2090000001(582497 per second)
+				Trying:
+					beshamed
+					expirers
+					sparsely
+					hirseled
+					arsenite
+Time spent so far: 3606
+Variants checked: 2100000001(582201 per second)
+				Trying:
+					besieged
+					exordial
+					someones
+					irenical
+Time spent so far: 3623
+Variants checked: 2110000001(582229 per second)
+				Trying:
+					besmiled
+					equators
+					succours
+					maculing
+Time spent so far: 3641
+Variants checked: 2120000001(582097 per second)
+				Trying:
+					besmokes
+					espoused
+					spinules
+					monellin
+Time spent so far: 3659
+Variants checked: 2130000001(581967 per second)
+				Trying:
+					bespeaks
+					eglatere
+					slashing
+					pastises
+					ethicals
+Time spent so far: 3678
+Variants checked: 2140000001(581679 per second)
+				Trying:
+					bespouse
+					eolipile
+					slinging
+					pinnulae
+Time spent so far: 3695
+Variants checked: 2150000001(581709 per second)
+				Trying:
+					besprent
+					entropic
+					strettos
+					preplant
+Time spent so far: 3712
+Variants checked: 2160000001(581739 per second)
+				Trying:
+					bestowal
+					enchased
+					scurfier
+					throbbed
+Time spent so far: 3731
+Variants checked: 2170000001(581457 per second)
+				Trying:
+					bestrews
+					ennobler
+					snorters
+					torsions
+Time spent so far: 3749
+Variants checked: 2180000001(581333 per second)
+				Trying:
+					bestrode
+					extended
+					starfish
+					terpenes
+Time spent so far: 3767
+Variants checked: 2190000001(581210 per second)
+				Trying:
+					betaines
+					energids
+					terriers
+					arraying
+Time spent so far: 3786
+Variants checked: 2200000001(580934 per second)
+				Trying:
+					bettered
+					eserines
+					teriyaki
+					triangle
+Time spent so far: 3804
+Variants checked: 2210000001(580814 per second)
+				Trying:
+					biasness
+					ignorant
+					annulate
+					sourdine
+Time spent so far: 3823
+Variants checked: 2220000001(580543 per second)
+				Trying:
+					bidarkee
+					ironings
+					dognaped
+					annually
+Time spent so far: 3842
+Variants checked: 2230000001(580275 per second)
+				Trying:
+					bimanual
+					isolable
+					moorings
+Time spent so far: 3859
+Variants checked: 2240000001(580310 per second)
+				Trying:
+					biometry
+					invasive
+					overdoer
+					maravedi
+Time spent so far: 3877
+Variants checked: 2250000001(580195 per second)
+				Trying:
+					biotypic
+					involver
+					overbear
+					torquate
+Time spent so far: 3896
+Variants checked: 2260000001(579933 per second)
+				Trying:
+					birdlime
+					iterated
+					rehouses
+Time spent so far: 3913
+Variants checked: 2270000001(579969 per second)
+				Trying:
+					bishoped
+					impaling
+					spirally
+Time spent so far: 3931
+Variants checked: 2280000001(579857 per second)
+				Trying:
+					bistroic
+					improves
+					spreader
+					treadles
+					roadmaps
+Time spent so far: 3949
+Variants checked: 2290000001(579746 per second)
+				Trying:
+					blackboy
+					licorice
+					accruals
+					corncobs
+Time spent so far: 3970
+Variants checked: 2300000001(579199 per second)
+				Trying:
+					blackout
+					lutanist
+					atalayas
+					callused
+Time spent so far: 3989
+Variants checked: 2310000001(578947 per second)
+				Trying:
+					blastema
+					littlest
+					atheling
+					stellify
+Time spent so far: 4006
+Variants checked: 2320000001(578986 per second)
+				Trying:
+					blastoma
+					labourer
+					abducing
+					soursops
+Time spent so far: 4023
+Variants checked: 2330000001(579025 per second)
+				Trying:
+					bleakest
+					lungworm
+					endnotes
+Time spent so far: 4041
+Variants checked: 2340000001(578921 per second)
+				Trying:
+					blessers
+					lonesome
+					enfevers
+					seething
+Time spent so far: 4059
+Variants checked: 2350000001(578817 per second)
+				Trying:
+					blisters
+					lymphoid
+					imbibers
+					spirally
+Time spent so far: 4077
+Variants checked: 2360000001(578715 per second)
+				Trying:
+					bloodier
+					laneways
+					oncogene
+Time spent so far: 4094
+Variants checked: 2370000001(578754 per second)
+				Trying:
+					blowback
+					lavalava
+					overdose
+					warcraft
+Time spent so far: 4112
+Variants checked: 2380000001(578653 per second)
+				Trying:
+					bluebell
+					lineable
+					unslings
+					eelworms
+Time spent so far: 4131
+Variants checked: 2390000001(578412 per second)
+				Trying:
+					bluntest
+					lonelily
+					unroofed
+					neophyte
+Time spent so far: 4149
+Variants checked: 2400000001(578313 per second)
+				Trying:
+					blusters
+					lintiest
+					unfairly
+					staggard
+Time spent so far: 4166
+Variants checked: 2410000001(578353 per second)
+				Trying:
+					boatfuls
+					orgulous
+					agaroses
+					turacous
+Time spent so far: 4184
+Variants checked: 2420000001(578255 per second)
+				Trying:
+					bobbinet
+					overtask
+					betatter
+					brakemen
+Time spent so far: 4203
+Variants checked: 2430000001(578020 per second)
+				Trying:
+					bobwhite
+					overslip
+					bedizens
+					wristlet
+Time spent so far: 8418
+Variants checked: 2440000001(289820 per second)
+				Trying:
+					bohemias
+					ozonides
+					hoodlums
+					endemial
+Time spent so far: 8437
+Variants checked: 2450000001(290353 per second)
+				Trying:
+					boltrope
+					overuses
+					lenience
+					triplite
+Time spent so far: 8454
+Variants checked: 2460000001(290952 per second)
+				Trying:
+					bombings
+					oversoon
+					medially
+					briquets
+Time spent so far: 8471
+Variants checked: 2470000001(291548 per second)
+				Trying:
+					bonehead
+					openings
+					neoteric
+					entirely
+Time spent so far: 8488
+Variants checked: 2480000001(292142 per second)
+				Trying:
+					boracite
+					overkill
+					regrafts
+					arrogate
+Time spent so far: 8505
+Variants checked: 2490000001(292734 per second)
+				Trying:
+					bordeaux
+					overwore
+					rejectee
+					dreaming
+Time spent so far: 8522
+Variants checked: 2500000001(293323 per second)
+				Trying:
+					bordered
+					oversell
+					remerges
+					dreaming
+Time spent so far: 8538
+Variants checked: 2510000001(293945 per second)
+				Trying:
+					bordures
+					overlush
+					recusant
+					drumhead
+Time spent so far: 8555
+Variants checked: 2520000001(294530 per second)
+				Trying:
+					boresome
+					overhung
+					regeared
+					eremitic
+					shaitans
+Time spent so far: 8573
+Variants checked: 2530000001(295078 per second)
+				Trying:
+					boscages
+					oppilant
+					spearman
+Time spent so far: 8589
+Variants checked: 2540000001(295692 per second)
+				Trying:
+					boshvark
+					overwide
+					seabirds
+Time spent so far: 8606
+Variants checked: 2550000001(296270 per second)
+				Trying:
+					bossisms
+					ofttimes
+					storying
+					strumous
+Time spent so far: 8623
+Variants checked: 2560000001(296846 per second)
+				Trying:
+					botchier
+					overslip
+					tetanoid
+					crankpin
+Time spent so far: 8640
+Variants checked: 2570000001(297419 per second)
+				Trying:
+					bottomry
+					overbite
+					tegument
+					trueness
+Time spent so far: 8657
+Variants checked: 2580000001(297990 per second)
+				Trying:
+					brabbled
+					retrials
+					attempts
+					breakout
+Time spent so far: 8674
+Variants checked: 2590000001(298559 per second)
+				Trying:
+					braceros
+					revokers
+					aversive
+					cornuses
+Time spent so far: 8691
+Variants checked: 2600000001(299125 per second)
+				Trying:
+					bracings
+					reprover
+					apricots
+					cricoids
+Time spent so far: 8708
+Variants checked: 2610000001(299689 per second)
+				Trying:
+					brackets
+					roborant
+					abelmosk
+					collects
+Time spent so far: 8725
+Variants checked: 2620000001(300252 per second)
+				Trying:
+					bractlet
+					repledge
+					apiarian
+					clasping
+					terpenic
+Time spent so far: 8741
+Variants checked: 2630000001(300846 per second)
+				Trying:
+					braggier
+					reelects
+					aerosols
+					glowworm
+Time spent so far: 8759
+Variants checked: 2640000001(301369 per second)
+				Trying:
+					brambles
+					ratafias
+					atonable
+					manatoid
+Time spent so far: 8776
+Variants checked: 2650000001(301925 per second)
+				Trying:
+					brashest
+					rattraps
+					athanasy
+					stanzaic
+Time spent so far: 8793
+Variants checked: 2660000001(302478 per second)
+				Trying:
+					brasilin
+					revenues
+					aversely
+					seriated
+					insanely
+Time spent so far: 8809
+Variants checked: 2670000001(303064 per second)
+				Trying:
+					brassart
+					reseeded
+					ascribed
+					servants
+Time spent so far: 8827
+Variants checked: 2680000001(303579 per second)
+				Trying:
+					brassies
+					redeemer
+					adverted
+					seepages
+					seraglio
+Time spent so far: 8843
+Variants checked: 2690000001(304161 per second)
+				Trying:
+					brassish
+					racemism
+					actressy
+					serially
+					smearing
+Time spent so far: 8860
+Variants checked: 2700000001(304706 per second)
+				Trying:
+					brattled
+					replicas
+					apolunes
+Time spent so far: 8877
+Variants checked: 2710000001(305248 per second)
+				Trying:
+					brawnily
+					repeller
+					aphagias
+					weasands
+Time spent so far: 8894
+Variants checked: 2720000001(305789 per second)
+				Trying:
+					breasted
+					realgars
+					earthset
+					altering
+Time spent so far: 8911
+Variants checked: 2730000001(306328 per second)
+				Trying:
+					breeders
+					referees
+Time spent so far: 8928
+Variants checked: 2740000001(306865 per second)
+				Trying:
+					brickier
+					redlined
+					ideating
+					clashers
+Time spent so far: 8945
+Variants checked: 2750000001(307399 per second)
+				Trying:
+					brimfull
+					resinify
+					isozymic
+					mizzling
+Time spent so far: 8962
+Variants checked: 2760000001(307932 per second)
+				Trying:
+					bristled
+					reniform
+					interred
+					sienites
+Time spent so far: 8979
+Variants checked: 2770000001(308463 per second)
+				Trying:
+					broaches
+					renminbi
+					ontology
+					amorally
+Time spent so far: 8996
+Variants checked: 2780000001(308991 per second)
+				Trying:
+					brocatel
+					revalues
+					overglad
+					cartoony
+					algorism
+Time spent so far: 9012
+Variants checked: 2790000001(309552 per second)
+				Trying:
+					broguery
+					rivetted
+					overlaps
+					germinal
+Time spent so far: 9029
+Variants checked: 2800000001(310077 per second)
+				Trying:
+					bromines
+					ravenous
+					overpast
+					merchant
+Time spent so far: 9046
+Variants checked: 2810000001(310600 per second)
+				Trying:
+					brothers
+					ravelins
+					overcall
+					termless
+Time spent so far: 9063
+Variants checked: 2820000001(311120 per second)
+				Trying:
+					brucines
+					ringdove
+					uncurbed
+Time spent so far: 9080
+Variants checked: 2830000001(311639 per second)
+				Trying:
+					bruskest
+					renested
+					unplowed
+					selenite
+Time spent so far: 9097
+Variants checked: 2840000001(312156 per second)
+				Trying:
+					buckling
+					unrepair
+					crimsons
+Time spent so far: 9114
+Variants checked: 2850000001(312671 per second)
+				Trying:
+					bulimiac
+					uridines
+					liveried
+					idealist
+Time spent so far: 9131
+Variants checked: 2860000001(313184 per second)
+				Trying:
+					burglary
+					unerased
+					redating
+					gravitas
+					latigoes
+Time spent so far: 9148
+Variants checked: 2870000001(313695 per second)
+				Trying:
+					bushbuck
+					unpaying
+					spindler
+					handicap
+Time spent so far: 9165
+Variants checked: 2880000001(314204 per second)
+				Trying:
+					bushland
+					unwarped
+					swervers
+					harbored
+Time spent so far: 9182
+Variants checked: 2890000001(314711 per second)
+				Trying:
+					bussings
+					utilidor
+					sideline
+					sleighed
+Time spent so far: 9199
+Variants checked: 2900000001(315217 per second)
+				Trying:
+					busywork
+					unpacked
+					specials
+					yachtman
+Time spent so far: 9216
+Variants checked: 2910000001(315720 per second)
+				Trying:
+					caballed
+					abetters
+					bereaved
+Time spent so far: 9233
+Variants checked: 2920000001(316222 per second)
+				Trying:
+					cabbalas
+					aboiteau
+					bolthead
+					bitingly
+Time spent so far: 9250
+Variants checked: 2930000001(316722 per second)
+				Trying:
+					caboched
+					adiposes
+					bistorts
+					opticist
+Time spent so far: 9267
+Variants checked: 2940000001(317220 per second)
+				Trying:
+					cabretta
+					aguishly
+					burnings
+					rinsible
+Time spent so far: 9284
+Variants checked: 2950000001(317716 per second)
+				Trying:
+					cachepot
+					apoapsis
+					coulisse
+					halation
+					epitaphs
+Time spent so far: 9301
+Variants checked: 2960000001(318211 per second)
+				Trying:
+					cacodyls
+					anuretic
+					cubistic
+					original
+					desilver
+Time spent so far: 9318
+Variants checked: 2970000001(318703 per second)
+				Trying:
+					cadavers
+					animuses
+					distaffs
+					amtracks
+Time spent so far: 9335
+Variants checked: 2980000001(319194 per second)
+				Trying:
+					caducean
+					aventail
+					decision
+					unifilar
+Time spent so far: 9352
+Variants checked: 2990000001(319683 per second)
+				Trying:
+					caesuric
+					ammonite
+					emulsoid
+					solation
+					unstoned
+Time spent so far: 9369
+Variants checked: 3000000001(320170 per second)
+				Trying:
+					calamari
+					apically
+					librates
+					acrotism
+Time spent so far: 9386
+Variants checked: 3010000001(320656 per second)
+				Trying:
+					calathos
+					acerbate
+					learners
+					arrayers
+Time spent so far: 9403
+Variants checked: 3020000001(321139 per second)
+				Trying:
+					calciums
+					agametes
+					lathings
+Time spent so far: 9420
+Variants checked: 3030000001(321621 per second)
+				Trying:
+					calflike
+					availing
+					laddered
+					fidgeted
+Time spent so far: 9437
+Variants checked: 3040000001(322102 per second)
+				Trying:
+					callaloo
+					awarding
+					latchkey
+Time spent so far: 9454
+Variants checked: 3050000001(322580 per second)
+				Trying:
+					caltraps
+					averaged
+					legating
+					traplike
+					ratlines
+Time spent so far: 9471
+Variants checked: 3060000001(323057 per second)
+				Trying:
+					cambisms
+					amiantus
+					mistends
+					batterie
+Time spent so far: 9488
+Variants checked: 3070000001(323532 per second)
+				Trying:
+					camellia
+					apatetic
+					machismo
+Time spent so far: 9505
+Variants checked: 3080000001(324005 per second)
+				Trying:
+					campagne
+					aborning
+					mofettes
+					premiums
+					antibias
+Time spent so far: 9521
+Variants checked: 3090000001(324511 per second)
+				Trying:
+					camphene
+					ayurveda
+					mucinous
+					prigging
+Time spent so far: 9538
+Variants checked: 3100000001(324981 per second)
+				Trying:
+					campiest
+					adorable
+					motorman
+					property
+Time spent so far: 9555
+Variants checked: 3110000001(325449 per second)
+				Trying:
+					campsite
+					aborting
+					motorize
+					provides
+					stricter
+Time spent so far: 9572
+Variants checked: 3120000001(325916 per second)
+				Trying:
+					camshaft
+					apophyge
+					motorway
+					sportful
+Time spent so far: 9588
+Variants checked: 3130000001(326415 per second)
+				Trying:
+					candlers
+					areology
+					neumatic
+					dominoes
+Time spent so far: 9606
+Variants checked: 3140000001(326845 per second)
+				Trying:
+					cantatas
+					acaulose
+					narrator
+					turmeric
+Time spent so far: 9623
+Variants checked: 3150000001(327306 per second)
+				Trying:
+					capacity
+					alluvial
+					plateaux
+					autocrat
+Time spent so far: 9640
+Variants checked: 3160000001(327766 per second)
+				Trying:
+					capework
+					adynamic
+					pyorrhea
+Time spent so far: 9657
+Variants checked: 3170000001(328225 per second)
+				Trying:
+					caponata
+					anaemias
+					passably
+					oestriol
+Time spent so far: 9674
+Variants checked: 3180000001(328682 per second)
+				Trying:
+					capricci
+					athetoid
+					photopia
+					retarded
+Time spent so far: 9690
+Variants checked: 3190000001(329171 per second)
+				Trying:
+					caprocks
+					auricula
+					provider
+					riveting
+Time spent so far: 9707
+Variants checked: 3200000001(329625 per second)
+				Trying:
+					capsized
+					achiness
+					philters
+					silvexes
+					intercom
+Time spent so far: 9724
+Variants checked: 3210000001(330077 per second)
+				Trying:
+					capstans
+					affiches
+					pfennigs
+					sinciput
+Time spent so far: 9741
+Variants checked: 3220000001(330527 per second)
+				Trying:
+					capsuled
+					acetamid
+					peerages
+					strumose
+Time spent so far: 9758
+Variants checked: 3230000001(330976 per second)
+				Trying:
+					captions
+					aperient
+					periblem
+					trimeter
+Time spent so far: 9775
+Variants checked: 3240000001(331423 per second)
+				Trying:
+					captures
+					abruptly
+					printing
+					tunicate
+Time spent so far: 9792
+Variants checked: 3250000001(331869 per second)
+				Trying:
+					carabids
+					alarmist
+					rapacity
+					arabicas
+Time spent so far: 9808
+Variants checked: 3260000001(332347 per second)
+				Trying:
+					caracara
+					amenably
+					recouple
+					anoopsia
+Time spent so far: 9825
+Variants checked: 3270000001(332790 per second)
+				Trying:
+					caragana
+					adenoses
+					reptiles
+					anticked
+Time spent so far: 9842
+Variants checked: 3280000001(333231 per second)
+				Trying:
+					carapace
+					avellane
+					recitals
+					alienees
+Time spent so far: 9859
+Variants checked: 3290000001(333671 per second)
+				Trying:
+					carbamic
+					ameerate
+					replaced
+					bellower
+Time spent so far: 9875
+Variants checked: 3300000001(334143 per second)
+				Trying:
+					carbides
+					averment
+					readiest
+Time spent so far: 9892
+Variants checked: 3310000001(334580 per second)
+				Trying:
+					carbonyl
+					aversely
+					retained
+					bravados
+carboras
+aperient
+recaller
+brassica
+oilseeds
+relievos
+anecdote
+strasses
+Variants checked: 3311472946
+Finished at: Thu Dec 09 16:39:38 PST 2010
+Time spent: 9895
+
+Process finished with exit code 0

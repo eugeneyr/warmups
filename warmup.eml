@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inheritJdk="true">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<levels>
+		<level name="hibernate-4.1.1" value="project"/>
+		<level name="jsf-2.0.1-FCS" value="project"/>
+		<level name="icefaces-2.0.2" value="project"/>
+		<level name="junit:junit:3.8.2" value="project"/>
+	</levels>
+</component>

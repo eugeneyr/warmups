@@ -1,0 +1,22 @@
+ l t 
+wina 
+ n x 
+lemon
+ n l 
+-------------
+linen
+lemon
+win
+taxol
+
+
+ l t 
+wina 
+ n x 
+lemon
+ n l 
+-------------
+WordPosition(0, 1, RIGHT, 'linen')
+WordPosition(3, 0, DOWN, 'lemon')
+WordPosition(1, 0, DOWN, 'win')
+WordPosition(0, 3, RIGHT, 'taxol')

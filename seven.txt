@@ -1,0 +1,1429 @@
+C:\jdk1.6.0\bin\java -Didea.launcher.port=7563 "-Didea.launcher.bin.path=C:\Program Files\JetBrains\IntelliJ IDEA 9.0.2\bin" -Dfile.encoding=windows-1252 -classpath "C:\Users\eyaremenko\warmups\warmup\target\classes;C:\jdk1.6.0\jre\lib\alt-rt.jar;C:\jdk1.6.0\jre\lib\charsets.jar;C:\jdk1.6.0\jre\lib\deploy.jar;C:\jdk1.6.0\jre\lib\javaws.jar;C:\jdk1.6.0\jre\lib\jce.jar;C:\jdk1.6.0\jre\lib\jsse.jar;C:\jdk1.6.0\jre\lib\management-agent.jar;C:\jdk1.6.0\jre\lib\plugin.jar;C:\jdk1.6.0\jre\lib\resources.jar;C:\jdk1.6.0\jre\lib\rt.jar;C:\jdk1.6.0\jre\lib\ext\dnsns.jar;C:\jdk1.6.0\jre\lib\ext\localedata.jar;C:\jdk1.6.0\jre\lib\ext\sunjce_provider.jar;C:\jdk1.6.0\jre\lib\ext\sunmscapi.jar;C:\jdk1.6.0\jre\lib\ext\sunpkcs11.jar;C:\Program Files\JetBrains\IntelliJ IDEA 9.0.2\lib\idea_rt.jar" com.intellij.rt.execution.application.AppMain info.lynxnet.warmups.SimpleLargestWordRectangleFinder
+Started at: Fri Nov 19 00:40:48 PST 2010
+Preprocessing...
+Time spent so far: 0
+Variants checked: 1(1 per second)
+				Trying:
+					aarrghh
+Time spent so far: 112
+Variants checked: 10001(88 per second)
+				Trying:
+					aarrghh
+					pleurae
+					ecocide
+					lacteal
+Time spent so far: 208
+Variants checked: 20001(95 per second)
+				Trying:
+					aarrghh
+					pleurae
+					pesters
+					orpines
+Time spent so far: 306
+Variants checked: 30001(97 per second)
+				Trying:
+					aarrghh
+					prairie
+					endlong
+Time spent so far: 416
+Variants checked: 40001(95 per second)
+				Trying:
+					aarrghh
+					steelie
+					capsule
+Time spent so far: 521
+Variants checked: 50001(95 per second)
+				Trying:
+					aarrghh
+					steelie
+					starets
+					ordeals
+Time spent so far: 629
+Variants checked: 60001(95 per second)
+				Trying:
+					aarrghh
+					stourie
+					parling
+Time spent so far: 744
+Variants checked: 70001(93 per second)
+				Trying:
+					abalone
+					almoner
+					rummage
+Time spent so far: 871
+Variants checked: 80001(91 per second)
+				Trying:
+					abalone
+					bananas
+					hydrate
+Time spent so far: 990
+Variants checked: 90001(90 per second)
+				Trying:
+					abalone
+					basilic
+					brazils
+Time spent so far: 1119
+Variants checked: 100001(89 per second)
+				Trying:
+					abalone
+					bedouin
+					insigne
+Time spent so far: 1276
+Variants checked: 110001(86 per second)
+				Trying:
+					abalone
+					bemires
+					broncos
+Time spent so far: 1397
+Variants checked: 120001(85 per second)
+				Trying:
+					abalone
+					berimed
+					lempira
+					aplitic
+Time spent so far: 1524
+Variants checked: 130001(85 per second)
+				Trying:
+					abalone
+					bibelot
+					abridge
+Time spent so far: 1643
+Variants checked: 140001(85 per second)
+				Trying:
+					abalone
+					bitumen
+					loonier
+Time spent so far: 1775
+Variants checked: 150001(84 per second)
+				Trying:
+					abalone
+					boleros
+					baptise
+Time spent so far: 1885
+Variants checked: 160001(84 per second)
+				Trying:
+					abalone
+					bolivia
+					rappels
+Time spent so far: 2002
+Variants checked: 170001(84 per second)
+				Trying:
+					abalone
+					boracic
+					wonners
+Time spent so far: 2128
+Variants checked: 180001(84 per second)
+				Trying:
+					abalone
+					botulin
+					fattens
+Time spent so far: 2253
+Variants checked: 190001(84 per second)
+				Trying:
+					abalone
+					bugeyes
+					blouses
+Time spent so far: 2387
+Variants checked: 200001(83 per second)
+				Trying:
+					abalone
+					cabalas
+					coypous
+Time spent so far: 2490
+Variants checked: 210001(84 per second)
+				Trying:
+					abalone
+					calamar
+					ripieno
+Time spent so far: 2605
+Variants checked: 220001(84 per second)
+				Trying:
+					abalone
+					caliper
+					unclose
+Time spent so far: 2725
+Variants checked: 230001(84 per second)
+				Trying:
+					abalone
+					cameral
+					carioca
+Time spent so far: 2866
+Variants checked: 240001(83 per second)
+				Trying:
+					abalone
+					canines
+					upleaps
+Time spent so far: 2971
+Variants checked: 250001(84 per second)
+				Trying:
+					abalone
+					caperer
+					amputee
+Time spent so far: 3081
+Variants checked: 260001(84 per second)
+				Trying:
+					abalone
+					carabin
+					hagborn
+Time spent so far: 3208
+Variants checked: 270001(84 per second)
+				Trying:
+					abalone
+					carates
+					tincals
+Time spent so far: 3337
+Variants checked: 280001(83 per second)
+				Trying:
+					abalone
+					carices
+					engorge
+Time spent so far: 3470
+Variants checked: 290001(83 per second)
+				Trying:
+					abalone
+					casabas
+					closets
+Time spent so far: 3584
+Variants checked: 300001(83 per second)
+				Trying:
+					abalone
+					cateran
+					trended
+					relieve
+Time spent so far: 3713
+Variants checked: 310001(83 per second)
+				Trying:
+					abalone
+					ceramal
+					uranite
+					tabetic
+Time spent so far: 3849
+Variants checked: 320001(83 per second)
+				Trying:
+					abalone
+					cetanes
+					classic
+					regatta
+Time spent so far: 3970
+Variants checked: 330001(83 per second)
+				Trying:
+					abalone
+					chlorin
+					radomes
+Time spent so far: 4076
+Variants checked: 340001(83 per second)
+				Trying:
+					abalone
+					cicalas
+					tectite
+Time spent so far: 4198
+Variants checked: 350001(83 per second)
+				Trying:
+					abalone
+					cinerin
+					evinced
+Time spent so far: 4322
+Variants checked: 360001(83 per second)
+				Trying:
+					abalone
+					cleaved
+					yardage
+Time spent so far: 4461
+Variants checked: 370001(82 per second)
+				Trying:
+					abalone
+					colicin
+					oleates
+Time spent so far: 4572
+Variants checked: 380001(83 per second)
+				Trying:
+					abalone
+					colonus
+					insigne
+Time spent so far: 4696
+Variants checked: 390001(83 per second)
+				Trying:
+					abalone
+					comatic
+					mongoes
+Time spent so far: 4822
+Variants checked: 400001(82 per second)
+				Trying:
+					abalone
+					copulae
+					rangier
+Time spent so far: 4960
+Variants checked: 410001(82 per second)
+				Trying:
+					abalone
+					coruler
+					chamise
+Time spent so far: 5077
+Variants checked: 420001(82 per second)
+				Trying:
+					abalone
+					creeper
+					nonhero
+Time spent so far: 5203
+Variants checked: 430001(82 per second)
+				Trying:
+					abalone
+					cupeled
+					toehold
+Time spent so far: 5331
+Variants checked: 440001(82 per second)
+				Trying:
+					abalone
+					curated
+					ericoid
+Time spent so far: 5465
+Variants checked: 450001(82 per second)
+				Trying:
+					abalone
+					dalapon
+					scaleni
+Time spent so far: 5575
+Variants checked: 460001(82 per second)
+				Trying:
+					abalone
+					debited
+					viscose
+Time spent so far: 5705
+Variants checked: 470001(82 per second)
+				Trying:
+					abalone
+					decares
+					striate
+Time spent so far: 5830
+Variants checked: 480001(82 per second)
+				Trying:
+					abalone
+					deduced
+					dioptre
+Time spent so far: 5961
+Variants checked: 490001(82 per second)
+				Trying:
+					abalone
+					deleted
+					rhodora
+Time spent so far: 6067
+Variants checked: 500001(82 per second)
+				Trying:
+					abalone
+					demerit
+					adenine
+					pinions
+Time spent so far: 6189
+Variants checked: 510001(82 per second)
+				Trying:
+					abalone
+					denarii
+					aviator
+Time spent so far: 6316
+Variants checked: 520001(82 per second)
+				Trying:
+					abalone
+					deputes
+					heretic
+Time spent so far: 6451
+Variants checked: 530001(82 per second)
+				Trying:
+					abalone
+					desires
+					dickies
+Time spent so far: 6559
+Variants checked: 540001(82 per second)
+				Trying:
+					abalone
+					digoxin
+					vernier
+Time spent so far: 6665
+Variants checked: 550001(82 per second)
+				Trying:
+					abalone
+					dineric
+					unswept
+Time spent so far: 6777
+Variants checked: 560001(82 per second)
+				Trying:
+					abalone
+					domicil
+					erosely
+					postals
+Time spent so far: 6901
+Variants checked: 570001(82 per second)
+				Trying:
+					abalone
+					duramen
+					dimwits
+					allicin
+Time spent so far: 7013
+Variants checked: 580001(82 per second)
+				Trying:
+					abalone
+					ergodic
+					gallops
+Time spent so far: 7118
+Variants checked: 590001(82 per second)
+				Trying:
+					abalone
+					favorer
+					grubber
+Time spent so far: 7242
+Variants checked: 600001(82 per second)
+				Trying:
+					abalone
+					figures
+					garrote
+Time spent so far: 7362
+Variants checked: 610001(82 per second)
+				Trying:
+					abalone
+					fixated
+					rescale
+Time spent so far: 7500
+Variants checked: 620001(82 per second)
+				Trying:
+					abalone
+					forebay
+					typhose
+Time spent so far: 7611
+Variants checked: 630001(82 per second)
+				Trying:
+					abalone
+					furanes
+					gibbers
+Time spent so far: 7729
+Variants checked: 640001(82 per second)
+				Trying:
+					abalone
+					galoped
+					greased
+Time spent so far: 7854
+Variants checked: 650001(82 per second)
+				Trying:
+					abalone
+					gelates
+					glottic
+Time spent so far: 7990
+Variants checked: 660001(82 per second)
+				Trying:
+					abalone
+					genital
+					anatomy
+					reduces
+Time spent so far: 8097
+Variants checked: 670001(82 per second)
+				Trying:
+					abalone
+					gomerel
+					gumtree
+Time spent so far: 8220
+Variants checked: 680001(82 per second)
+				Trying:
+					abalone
+					hegiras
+					iciness
+					malacca
+Time spent so far: 8354
+Variants checked: 690001(82 per second)
+				Trying:
+					abalone
+					iodines
+					rummers
+Time spent so far: 8491
+Variants checked: 700001(82 per second)
+				Trying:
+					abalone
+					labored
+					galatea
+Time spent so far: 8595
+Variants checked: 710001(82 per second)
+				Trying:
+					abalone
+					lacunas
+					turrets
+					electro
+Time spent so far: 8713
+Variants checked: 720001(82 per second)
+				Trying:
+					abalone
+					lagunes
+					upleaps
+Time spent so far: 8838
+Variants checked: 730001(82 per second)
+				Trying:
+					abalone
+					lanolin
+					pandied
+Time spent so far: 8958
+Variants checked: 740001(82 per second)
+				Trying:
+					abalone
+					latices
+					forfeit
+Time spent so far: 9093
+Variants checked: 750001(82 per second)
+				Trying:
+					abalone
+					legates
+					tripart
+					handler
+Time spent so far: 9212
+Variants checked: 760001(82 per second)
+				Trying:
+					abalone
+					leporid
+					mannite
+Time spent so far: 9341
+Variants checked: 770001(82 per second)
+				Trying:
+					abalone
+					libeled
+					tripoli
+Time spent so far: 9457
+Variants checked: 780001(82 per second)
+				Trying:
+					abalone
+					ligules
+					cormels
+Time spent so far: 9576
+Variants checked: 790001(82 per second)
+				Trying:
+					abalone
+					limulus
+					epitome
+Time spent so far: 9693
+Variants checked: 800001(82 per second)
+				Trying:
+					abalone
+					linocut
+					keelage
+Time spent so far: 9811
+Variants checked: 810001(82 per second)
+				Trying:
+					abalone
+					lipomas
+					mooters
+Time spent so far: 9930
+Variants checked: 820001(82 per second)
+				Trying:
+					abalone
+					lobelia
+					dildoes
+Time spent so far: 10071
+Variants checked: 830001(82 per second)
+				Trying:
+					abalone
+					locates
+					anoraks
+Time spent so far: 10180
+Variants checked: 840001(82 per second)
+				Trying:
+					abalone
+					logical
+					curcuma
+Time spent so far: 10301
+Variants checked: 850001(82 per second)
+				Trying:
+					abalone
+					lunated
+					viscose
+Time spent so far: 10429
+Variants checked: 860001(82 per second)
+				Trying:
+					abalone
+					lyrated
+					regmata
+Time spent so far: 10554
+Variants checked: 870001(82 per second)
+				Trying:
+					abalone
+					madames
+					momzers
+Time spent so far: 10701
+Variants checked: 880001(82 per second)
+				Trying:
+					abalone
+					malines
+					blivets
+					amnesia
+Time spent so far: 10813
+Variants checked: 890001(82 per second)
+				Trying:
+					abalone
+					manitos
+					outpace
+Time spent so far: 10936
+Variants checked: 900001(82 per second)
+				Trying:
+					abalone
+					maracas
+					issuers
+					teenage
+Time spent so far: 11070
+Variants checked: 910001(82 per second)
+				Trying:
+					abalone
+					matures
+					atonics
+Time spent so far: 11208
+Variants checked: 920001(82 per second)
+				Trying:
+					abalone
+					megabar
+					platier
+Time spent so far: 11328
+Variants checked: 930001(82 per second)
+				Trying:
+					abalone
+					melilot
+					pangene
+Time spent so far: 11464
+Variants checked: 940001(81 per second)
+				Trying:
+					abalone
+					meropia
+					arguers
+Time spent so far: 11602
+Variants checked: 950001(81 per second)
+				Trying:
+					abalone
+					metered
+					tweedle
+Time spent so far: 11735
+Variants checked: 960001(81 per second)
+				Trying:
+					abalone
+					midiron
+					prebind
+					ukelele
+Time spent so far: 11869
+Variants checked: 970001(81 per second)
+				Trying:
+					abalone
+					mineral
+					paucity
+Time spent so far: 11980
+Variants checked: 980001(81 per second)
+				Trying:
+					abalone
+					minivan
+					penners
+Time spent so far: 12111
+Variants checked: 990001(81 per second)
+				Trying:
+					abalone
+					miterer
+					ellipse
+Time spent so far: 12244
+Variants checked: 1000001(81 per second)
+				Trying:
+					abalone
+					monades
+					outwore
+Time spent so far: 12390
+Variants checked: 1010001(81 per second)
+				Trying:
+					abalone
+					monocot
+					brachia
+					lankest
+Time spent so far: 12506
+Variants checked: 1020001(81 per second)
+				Trying:
+					abalone
+					morales
+					rompers
+					emotive
+Time spent so far: 12639
+Variants checked: 1030001(81 per second)
+				Trying:
+					abalone
+					motoric
+					omitted
+Time spent so far: 12778
+Variants checked: 1040001(81 per second)
+				Trying:
+					abalone
+					mycosis
+					inhumes
+Time spent so far: 12910
+Variants checked: 1050001(81 per second)
+				Trying:
+					abalone
+					natured
+					alibied
+Time spent so far: 13037
+Variants checked: 1060001(81 per second)
+				Trying:
+					abalone
+					nematic
+					orisons
+					mantlet
+Time spent so far: 13181
+Variants checked: 1070001(81 per second)
+				Trying:
+					abalone
+					ninepin
+					keeping
+Time spent so far: 13328
+Variants checked: 1080001(81 per second)
+				Trying:
+					abalone
+					nonages
+					tantric
+Time spent so far: 13425
+Variants checked: 1090001(81 per second)
+				Trying:
+					abalone
+					noniron
+					tunning
+					slogger
+Time spent so far: 13554
+Variants checked: 1100001(81 per second)
+				Trying:
+					abalone
+					novenas
+					swinges
+Time spent so far: 13682
+Variants checked: 1110001(81 per second)
+				Trying:
+					abalone
+					pageboy
+					adipose
+Time spent so far: 13810
+Variants checked: 1120001(81 per second)
+				Trying:
+					abalone
+					palaver
+					sandier
+Time spent so far: 13926
+Variants checked: 1130001(81 per second)
+				Trying:
+					abalone
+					papered
+					outsole
+Time spent so far: 14051
+Variants checked: 1140001(81 per second)
+				Trying:
+					abalone
+					paradox
+					primate
+Time spent so far: 14178
+Variants checked: 1150001(81 per second)
+				Trying:
+					abalone
+					paroles
+					onagers
+Time spent so far: 14314
+Variants checked: 1160001(81 per second)
+				Trying:
+					abalone
+					patinas
+					suavest
+Time spent so far: 14429
+Variants checked: 1170001(81 per second)
+				Trying:
+					abalone
+					pelican
+					isopach
+Time spent so far: 14563
+Variants checked: 1180001(81 per second)
+				Trying:
+					abalone
+					peloric
+					radials
+Time spent so far: 14685
+Variants checked: 1190001(81 per second)
+				Trying:
+					abalone
+					penicil
+					orotund
+					modeler
+Time spent so far: 14830
+Variants checked: 1200001(80 per second)
+				Trying:
+					abalone
+					perukes
+					rennase
+Time spent so far: 14945
+Variants checked: 1210001(80 per second)
+				Trying:
+					abalone
+					picaras
+					schnaps
+Time spent so far: 15061
+Variants checked: 1220001(80 per second)
+				Trying:
+					abalone
+					pilules
+					reredos
+Time spent so far: 15189
+Variants checked: 1230001(80 per second)
+				Trying:
+					abalone
+					pirated
+					spirted
+Time spent so far: 15319
+Variants checked: 1240001(80 per second)
+				Trying:
+					abalone
+					pocosin
+					alerter
+					cedilla
+Time spent so far: 15422
+Variants checked: 1250001(81 per second)
+				Trying:
+					abalone
+					polaron
+					pricers
+					requite
+Time spent so far: 15548
+Variants checked: 1260001(81 per second)
+				Trying:
+					abalone
+					polypod
+					irksome
+Time spent so far: 15674
+Variants checked: 1270001(81 per second)
+				Trying:
+					abalone
+					posited
+					trysted
+Time spent so far: 15815
+Variants checked: 1280001(80 per second)
+				Trying:
+					abalone
+					pumices
+					pinnate
+Time spent so far: 15929
+Variants checked: 1290001(80 per second)
+				Trying:
+					abalone
+					pyloric
+					retears
+Time spent so far: 16049
+Variants checked: 1300001(80 per second)
+				Trying:
+					abalone
+					rabatos
+					gascons
+Time spent so far: 16175
+Variants checked: 1310001(80 per second)
+				Trying:
+					abalone
+					radixes
+					cambist
+Time spent so far: 16297
+Variants checked: 1320001(80 per second)
+				Trying:
+					abalone
+					rapines
+					chokers
+Time spent so far: 16439
+Variants checked: 1330001(80 per second)
+				Trying:
+					abalone
+					ratites
+					sartors
+Time spent so far: 16560
+Variants checked: 1340001(80 per second)
+				Trying:
+					abalone
+					rebatos
+					urinose
+					solacer
+Time spent so far: 16701
+Variants checked: 1350001(80 per second)
+				Trying:
+					abalone
+					recanes
+					amusers
+					ratafee
+Time spent so far: 16839
+Variants checked: 1360001(80 per second)
+				Trying:
+					abalone
+					recoded
+					deltoid
+Time spent so far: 16995
+Variants checked: 1370001(80 per second)
+				Trying:
+					abalone
+					redoxes
+					stogies
+Time spent so far: 17119
+Variants checked: 1380001(80 per second)
+				Trying:
+					abalone
+					refuter
+					overate
+Time spent so far: 17255
+Variants checked: 1390001(80 per second)
+				Trying:
+					abalone
+					reginal
+					progged
+Time spent so far: 17388
+Variants checked: 1400001(80 per second)
+				Trying:
+					abalone
+					rehires
+					crimple
+Time spent so far: 17538
+Variants checked: 1410001(80 per second)
+				Trying:
+					abalone
+					relates
+					elevate
+Time spent so far: 17663
+Variants checked: 1420001(80 per second)
+				Trying:
+					abalone
+					relaxin
+					merited
+Time spent so far: 17797
+Variants checked: 1430001(80 per second)
+				Trying:
+					abalone
+					relives
+					cankers
+Time spent so far: 17939
+Variants checked: 1440001(80 per second)
+				Trying:
+					abalone
+					remixes
+					girlies
+Time spent so far: 18091
+Variants checked: 1450001(80 per second)
+				Trying:
+					abalone
+					removal
+					apogamy
+Time spent so far: 18225
+Variants checked: 1460001(80 per second)
+				Trying:
+					abalone
+					reneged
+					misshod
+Time spent so far: 18357
+Variants checked: 1470001(80 per second)
+				Trying:
+					abalone
+					repined
+					plateau
+Time spent so far: 18501
+Variants checked: 1480001(79 per second)
+				Trying:
+					abalone
+					rerisen
+					almsman
+					multure
+Time spent so far: 18654
+Variants checked: 1490001(79 per second)
+				Trying:
+					abalone
+					resiles
+					ologies
+Time spent so far: 18777
+Variants checked: 1500001(79 per second)
+				Trying:
+					abalone
+					retapes
+					barites
+Time spent so far: 18913
+Variants checked: 1510001(79 per second)
+				Trying:
+					abalone
+					retinas
+					erodent
+					armlike
+Time spent so far: 19047
+Variants checked: 1520001(79 per second)
+				Trying:
+					abalone
+					retunes
+					briners
+					ignatia
+Time spent so far: 19187
+Variants checked: 1530001(79 per second)
+				Trying:
+					abalone
+					revisal
+					swatted
+Time spent so far: 19343
+Variants checked: 1540001(79 per second)
+				Trying:
+					abalone
+					rewires
+					balatas
+Time spent so far: 19469
+Variants checked: 1550001(79 per second)
+				Trying:
+					abalone
+					riveter
+					adepter
+Time spent so far: 19590
+Variants checked: 1560001(79 per second)
+				Trying:
+					abalone
+					romanos
+					glazers
+Time spent so far: 19723
+Variants checked: 1570001(79 per second)
+				Trying:
+					abalone
+					rosolio
+					insteps
+Time spent so far: 19852
+Variants checked: 1580001(79 per second)
+				Trying:
+					abalone
+					rugosas
+					adoptee
+Time spent so far: 19982
+Variants checked: 1590001(79 per second)
+				Trying:
+					abalone
+					sacaton
+					estrone
+					pearler
+Time spent so far: 20126
+Variants checked: 1600001(79 per second)
+				Trying:
+					abalone
+					salamis
+					chebecs
+Time spent so far: 20234
+Variants checked: 1610001(79 per second)
+				Trying:
+					abalone
+					salivas
+					confits
+Time spent so far: 20367
+Variants checked: 1620001(79 per second)
+				Trying:
+					abalone
+					samites
+					turbots
+Time spent so far: 20492
+Variants checked: 1630001(79 per second)
+				Trying:
+					abalone
+					sarapes
+					cuprous
+Time spent so far: 20628
+Variants checked: 1640001(79 per second)
+				Trying:
+					abalone
+					satiric
+					oblates
+Time spent so far: 20780
+Variants checked: 1650001(79 per second)
+				Trying:
+					abalone
+					savored
+					isodose
+Time spent so far: 20904
+Variants checked: 1660001(79 per second)
+				Trying:
+					abalone
+					secures
+					chitals
+					radicle
+Time spent so far: 21042
+Variants checked: 1670001(79 per second)
+				Trying:
+					abalone
+					selenic
+					sarsens
+Time spent so far: 21186
+Variants checked: 1680001(79 per second)
+				Trying:
+					abalone
+					senarii
+					slogged
+					aureole
+Time spent so far: 21335
+Variants checked: 1690001(79 per second)
+				Trying:
+					abalone
+					senopia
+					scowing
+					aureate
+Time spent so far: 21473
+Variants checked: 1700001(79 per second)
+				Trying:
+					abalone
+					serapes
+					prename
+					handcar
+Time spent so far: 21612
+Variants checked: 1710001(79 per second)
+				Trying:
+					abalone
+					serosas
+					synapse
+Time spent so far: 21741
+Variants checked: 1720001(79 per second)
+				Trying:
+					abalone
+					shoepac
+					sarcoma
+Time spent so far: 21862
+Variants checked: 1730001(79 per second)
+				Trying:
+					abalone
+					sidemen
+					rondeau
+Time spent so far: 21995
+Variants checked: 1740001(79 per second)
+				Trying:
+					abalone
+					silicic
+					coffret
+Time spent so far: 22107
+Variants checked: 1750001(79 per second)
+				Trying:
+					abalone
+					simular
+					knifing
+Time spent so far: 22237
+Variants checked: 1760001(79 per second)
+				Trying:
+					abalone
+					sluices
+					ratchet
+Time spent so far: 22369
+Variants checked: 1770001(79 per second)
+				Trying:
+					abalone
+					solanin
+					chouses
+Time spent so far: 22490
+Variants checked: 1780001(79 per second)
+				Trying:
+					abalone
+					solaria
+					pinkies
+Time spent so far: 22625
+Variants checked: 1790001(79 per second)
+				Trying:
+					abalone
+					solidus
+					swaddle
+Time spent so far: 22764
+Variants checked: 1800001(79 per second)
+				Trying:
+					abalone
+					sonovox
+					stators
+					acronic
+Time spent so far: 22887
+Variants checked: 1810001(79 per second)
+				Trying:
+					abalone
+					sozines
+					plovers
+Time spent so far: 23023
+Variants checked: 1820001(79 per second)
+				Trying:
+					abalone
+					suberin
+					tidiers
+					erosive
+Time spent so far: 23151
+Variants checked: 1830001(79 per second)
+				Trying:
+					abalone
+					sutural
+					eyesore
+Time spent so far: 23276
+Variants checked: 1840001(79 per second)
+				Trying:
+					abalone
+					taborer
+					abutter
+Time spent so far: 23415
+Variants checked: 1850001(79 per second)
+				Trying:
+					abalone
+					talipot
+					alanine
+					camions
+Time spent so far: 23525
+Variants checked: 1860001(79 per second)
+				Trying:
+					abalone
+					tamises
+					taramas
+Time spent so far: 23645
+Variants checked: 1870001(79 per second)
+				Trying:
+					abalone
+					telamon
+					elative
+					moniker
+Time spent so far: 23769
+Variants checked: 1880001(79 per second)
+				Trying:
+					abalone
+					teleses
+					anaemic
+					burrito
+Time spent so far: 23902
+Variants checked: 1890001(79 per second)
+				Trying:
+					abalone
+					tenutos
+					tacnode
+Time spent so far: 24026
+Variants checked: 1900001(79 per second)
+				Trying:
+					abalone
+					tiderip
+					hausens
+Time spent so far: 24162
+Variants checked: 1910001(79 per second)
+				Trying:
+					abalone
+					tolanes
+					abaters
+					reserve
+Time spent so far: 24272
+Variants checked: 1920001(79 per second)
+				Trying:
+					abalone
+					toxemia
+					raspier
+Time spent so far: 24401
+Variants checked: 1930001(79 per second)
+				Trying:
+					abalone
+					turacou
+					hipless
+Time spent so far: 24530
+Variants checked: 1940001(79 per second)
+				Trying:
+					abalone
+					valonia
+					icecaps
+Time spent so far: 24670
+Variants checked: 1950001(79 per second)
+				Trying:
+					abalone
+					venires
+					eveners
+					restive
+Time spent so far: 24818
+Variants checked: 1960001(78 per second)
+				Trying:
+					abalone
+					visages
+					insides
+Time spent so far: 24930
+Variants checked: 1970001(79 per second)
+				Trying:
+					abalone
+					watapes
+					atavist
+					regrate
+Time spent so far: 25036
+Variants checked: 1980001(79 per second)
+				Trying:
+					abalone
+					zonular
+					argling
+Time spent so far: 25165
+Variants checked: 1990001(79 per second)
+				Trying:
+					abandon
+					begorra
+					hirsute
+Time spent so far: 25304
+Variants checked: 2000001(79 per second)
+				Trying:
+					abandon
+					bereave
+					starlit
+					oomiacs
+Time spent so far: 25448
+Variants checked: 2010001(78 per second)
+				Trying:
+					abandon
+					carioca
+					cornice
+Time spent so far: 25559
+Variants checked: 2020001(79 per second)
+				Trying:
+					abandon
+					cesurae
+					nictate
+Time spent so far: 25685
+Variants checked: 2030001(79 per second)
+				Trying:
+					abandon
+					codeina
+					ladings
+Time spent so far: 25816
+Variants checked: 2040001(79 per second)
+				Trying:
+					abandon
+					dariole
+					drudger
+					ungulae
+Time spent so far: 25950
+Variants checked: 2050001(78 per second)
+				Trying:
+					abandon
+					delaine
+					stabber
+Time spent so far: 26090
+Variants checked: 2060001(78 per second)
+				Trying:
+					abandon
+					diseuse
+					unstick
+Time spent so far: 26220
+Variants checked: 2070001(78 per second)
+				Trying:
+					abandon
+					gruyere
+					neglige
+Time spent so far: 26377
+Variants checked: 2080001(78 per second)
+				Trying:
+					abandon
+					malaise
+					ingrate
+					needled
+Time spent so far: 26537
+Variants checked: 2090001(78 per second)
+				Trying:
+					abandon
+					modioli
+					tiaraed
+Time spent so far: 26683
+Variants checked: 2100001(78 per second)
+				Trying:
+					abandon
+					pareira
+					scoters
+Time spent so far: 26822
+Variants checked: 2110001(78 per second)
+				Trying:
+					abandon
+					radiale
+					arrayer
+Time spent so far: 26987
+Variants checked: 2120001(78 per second)
+				Trying:
+					abandon
+					recoupe
+					dynodes
+Time spent so far: 27147
+Variants checked: 2130001(78 per second)
+				Trying:
+					abandon
+					relieve
+					metopes
+Time spent so far: 27277
+Variants checked: 2140001(78 per second)
+				Trying:
+					abandon
+					remorse
+					azotise
+					rosebud
+Time spent so far: 27408
+Variants checked: 2150001(78 per second)
+				Trying:
+					abandon
+					reverso
+					clerics
+Time spent so far: 27552
+Variants checked: 2160001(78 per second)
+				Trying:
+					abandon
+					rilievo
+					grottos
+					ecotone
+Time spent so far: 27691
+Variants checked: 2170001(78 per second)
+				Trying:
+					abandon
+					riviera
+					avulsed
+Time spent so far: 27824
+Variants checked: 2180001(78 per second)
+				Trying:
+					abandon
+					rosaria
+					propyls
+Time spent so far: 27962
+Variants checked: 2190001(78 per second)
+				Trying:
+					abandon
+					saguaro
+					torched
+Time spent so far: 28112
+Variants checked: 2200001(78 per second)
+				Trying:
+					abandon
+					sinuate
+					haslets
+Time spent so far: 28251
+Variants checked: 2210001(78 per second)
+				Trying:
+					abandon
+					tapioca
+					hullers
+Time spent so far: 28409
+Variants checked: 2220001(78 per second)
+				Trying:
+					abandon
+					zareeba
+					adulate
+Time spent so far: 28563
+Variants checked: 2230001(78 per second)
+				Trying:
+					abasers
+					babiche
+					slasher
+					casting
+Time spent so far: 28709
+Variants checked: 2240001(78 per second)
+				Trying:
+					abasers
+					baloney
+					ballets
+Time spent so far: 28855
+Variants checked: 2250001(77 per second)
+				Trying:
+					abasers
+					baronet
+					agentry
+					sandhog
+Time spent so far: 29013
+Variants checked: 2260001(77 per second)
+				Trying:
+					abasers
+					basemen
+					outgone
+Time spent so far: 29169
+Variants checked: 2270001(77 per second)
+				Trying:
+					abasers
+					bathmat
+					asinine
+abasers
+bedemen
+adenoma
+senator
+emotive
+remover
+snarers
+Finished at: Fri Nov 19 08:47:51 PST 2010
+Time spent: 29211
+
+Process finished with exit code 0
