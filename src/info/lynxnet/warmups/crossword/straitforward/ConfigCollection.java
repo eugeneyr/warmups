@@ -1,7 +1,5 @@
 package info.lynxnet.warmups.crossword.straitforward;
 
-import info.lynxnet.warmups.crossword.WordPosition;
-
 import java.util.*;
 
 public class ConfigCollection {
