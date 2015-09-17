@@ -11,6 +11,7 @@ import java.util.*;
 public class CrosswordConfiguration implements Serializable, Cloneable {
     private int width;
     private int height;
+    private char[] board;
 
     private List<WordPosition> rightWords = new ArrayList<WordPosition>();
     private List<WordPosition> downWords = new ArrayList<WordPosition>();
@@ -18,8 +19,8 @@ public class CrosswordConfiguration implements Serializable, Cloneable {
     private Set<String> words = new LinkedHashSet<String>();
     private Map<String, WordPosition> wordsToPositions = new LinkedHashMap<String, WordPosition>();
 
-    private Map<Integer, TreeSet<WordPosition>> rightMap = new HashMap<Integer, TreeSet<WordPosition>>();
-    private Map<Integer, TreeSet<WordPosition>> downMap = new HashMap<Integer, TreeSet<WordPosition>>();
+    private Map<Integer, HashSet<WordPosition>> rightMap = new HashMap<Integer, HashSet<WordPosition>>();
+    private Map<Integer, HashSet<WordPosition>> downMap = new HashMap<Integer, HashSet<WordPosition>>();
 
     private ShapelessWordBucket dictionary;
 
@@ -47,7 +48,7 @@ public class CrosswordConfiguration implements Serializable, Cloneable {
             for (int i = 0; i < word.length(); i++) {
                 char c = word.charAt(i);
                 if (board[x + i] == null) {
-                    board[x + i] = new Character[height + 1];
+                    board[x + i] = new Character[height];
                 }
                 if (board[x + i][y] != null) {
                     if (board[x + i][y] != c) {
@@ -73,7 +74,7 @@ public class CrosswordConfiguration implements Serializable, Cloneable {
                 throw new IllegalStateException("Unexpected inconsistency: the word " + wp.getWord() + " does not fit on the board");
             }
             if (board[x] == null) {
-                board[x] = new Character[height + 1];
+                board[x] = new Character[height];
             }
             for (int i = 0; i < word.length(); i++) {
                 char c = word.charAt(i);
@@ -89,11 +90,28 @@ public class CrosswordConfiguration implements Serializable, Cloneable {
         return board;
     }
 
+    public char[] getBoard() {
+        if (this.board != null) {
+            return board;
+        }
+        this.board = new char[this.height * this.width];
+        Character[][] pf = this.buildPlayField();
+        Arrays.fill(this.board, ' ');
+        for (int j = 0; j < this.height; j++) {
+            for (int i = 0; i < this.width; i++) {
+                if (pf[i] != null && pf[i][j] != null) {
+                    this.board[j * this.height + i] = pf[i][j];
+                }
+            }
+        }
+        return this.board;
+    }
+
     public boolean isValid() {
         for (WordPosition righty : rightWords) {
             // words across
             for (int i = 0; i < righty.getWord().length(); i++) {
-                TreeSet<WordPosition> set = downMap.get(righty.getX() + i);
+                HashSet<WordPosition> set = downMap.get(righty.getX() + i);
                 if (set != null) {
                     Set<WordPosition> crossers = new LinkedHashSet<WordPosition>();
                     for (WordPosition downy : set) {
@@ -114,7 +132,7 @@ public class CrosswordConfiguration implements Serializable, Cloneable {
                 }
             }
             // words in the same row
-            TreeSet<WordPosition> set = rightMap.get(righty.getY());
+            HashSet<WordPosition> set = rightMap.get(righty.getY());
             for (WordPosition wp : set) {
                 if (!wp.equals(righty) && isOverlapping(righty, wp)) {
                     System.out.println("Overlapping words: " + righty.toString() + ",  " + wp.toString());
@@ -125,7 +143,7 @@ public class CrosswordConfiguration implements Serializable, Cloneable {
         for (WordPosition down : downWords) {
             // words across
             for (int i = 0; i < down.getWord().length(); i++) {
-                TreeSet<WordPosition> set = rightMap.get(down.getY() + i);
+                HashSet<WordPosition> set = rightMap.get(down.getY() + i);
                 if (set != null) {
                     Set<WordPosition> crossers = new LinkedHashSet<WordPosition>();
                     for (WordPosition right : set) {
@@ -145,7 +163,7 @@ public class CrosswordConfiguration implements Serializable, Cloneable {
                     }
                 }
             }
-            TreeSet<WordPosition> set = downMap.get(down.getX());
+            HashSet<WordPosition> set = downMap.get(down.getX());
             for (WordPosition wp : set) {
                 if (!wp.equals(down) && isOverlapping(down, wp)) {
                     System.out.println("Overlapping words: " + down.toString() + ",  " + wp.toString());
@@ -191,7 +209,7 @@ public class CrosswordConfiguration implements Serializable, Cloneable {
             }
 
             WordPosition wp = new WordPosition(x, y, dir, word);
-            TreeSet<WordPosition> set = rightMap.get(y);
+            HashSet<WordPosition> set = rightMap.get(y);
             // check for overlapping with or "touching" other "right" words
             if (set != null) {
                 for (WordPosition righty : set) {
@@ -283,7 +301,7 @@ public class CrosswordConfiguration implements Serializable, Cloneable {
 
             // check for overlapping with or "touching" other "down" words
             WordPosition wp = new WordPosition(x, y, dir, word);
-            TreeSet<WordPosition> set = downMap.get(x);
+            HashSet<WordPosition> set = downMap.get(x);
             if (set != null) {
                 for (WordPosition downy : set) {
                     if (isOverlapping(downy, wp)) {
@@ -367,7 +385,7 @@ public class CrosswordConfiguration implements Serializable, Cloneable {
         Set<WordPosition> crossers = new LinkedHashSet<WordPosition>();
         if (dir == Direction.RIGHT) {
             WordPosition wp = new WordPosition(x, y, dir, word);
-            TreeSet<WordPosition> set = rightMap.get(y);
+            HashSet<WordPosition> set = rightMap.get(y);
             if (set != null) {
                 for (WordPosition righty : set) {
                     if (isOverlapping(righty, wp)) {
@@ -377,7 +395,7 @@ public class CrosswordConfiguration implements Serializable, Cloneable {
             }
             // check for intersecting "down" words
             for (int i = 0; i < word.length(); i++) {
-                TreeSet<WordPosition> downSet = downMap.get(x + i);
+                HashSet<WordPosition> downSet = downMap.get(x + i);
                 if (downSet != null) {
                     char c = word.charAt(i);
                     for (WordPosition downWord : downSet) {
@@ -398,7 +416,7 @@ public class CrosswordConfiguration implements Serializable, Cloneable {
             }
             // check for overlapping with other "down" words
             WordPosition wp = new WordPosition(x, y, dir, word);
-            TreeSet<WordPosition> set = downMap.get(x);
+            HashSet<WordPosition> set = downMap.get(x);
             if (set != null) {
                 for (WordPosition downy : set) {
                     if (isOverlapping(downy, wp)) {
@@ -408,7 +426,7 @@ public class CrosswordConfiguration implements Serializable, Cloneable {
             }
             // check for intersecting "right" words
             for (int i = 0; i < word.length(); i++) {
-                TreeSet<WordPosition> rightSet = rightMap.get(y + i);
+                HashSet<WordPosition> rightSet = rightMap.get(y + i);
                 if (rightSet != null) {
                     char c = word.charAt(i);
                     for (WordPosition rightWord : rightSet) {
@@ -494,19 +512,19 @@ public class CrosswordConfiguration implements Serializable, Cloneable {
         return new WordCrossing(right, down);
     }
 
-    private static void addToMap(WordPosition wp, Map<Integer, TreeSet<WordPosition>> map) {
+    private static void addToMap(WordPosition wp, Map<Integer, HashSet<WordPosition>> map) {
         int position = wp.getDirection() == Direction.RIGHT ? wp.getY() : wp.getX();
-        TreeSet<WordPosition> set = map.get(position);
+        HashSet<WordPosition> set = map.get(position);
         if (set == null) {
-            set = new TreeSet<WordPosition>();
+            set = new HashSet<WordPosition>();
             map.put(position, set);
         }
         set.add(wp);
     }
 
-    private static void removeFromMap(WordPosition wp, Map<Integer, TreeSet<WordPosition>> map) {
+    private static void removeFromMap(WordPosition wp, Map<Integer, HashSet<WordPosition>> map) {
         int position = wp.getDirection() == Direction.RIGHT ? wp.getY() : wp.getX();
-        TreeSet<WordPosition> set = map.get(position);
+        HashSet<WordPosition> set = map.get(position);
         if (set != null) {
             set.remove(wp);
         }
@@ -624,7 +642,7 @@ public class CrosswordConfiguration implements Serializable, Cloneable {
                     return result;
                 }
                 for (int i = wp.getX(); i < wp.getX() + wp.getWord().length(); i++) {
-                    TreeSet<WordPosition> set = downMap.get(i);
+                    HashSet<WordPosition> set = downMap.get(i);
                     if (set != null) {
                         for (WordPosition downer : set) {
                             if (downer.getY() <= wp.getY() && downer.getY() + downer.getWord().length() > wp.getY()) {
@@ -639,7 +657,7 @@ public class CrosswordConfiguration implements Serializable, Cloneable {
                     return result;
                 }
                 for (int i = wp.getY(); i < wp.getY() + wp.getWord().length(); i++) {
-                    TreeSet<WordPosition> set = rightMap.get(i);
+                    HashSet<WordPosition> set = rightMap.get(i);
                     if (set != null) {
                         for (WordPosition righter : set) {
                             if (righter.getX() <= wp.getX() && righter.getX() + righter.getWord().length() > wp.getX()) {
@@ -708,11 +726,11 @@ public class CrosswordConfiguration implements Serializable, Cloneable {
         words.remove(wp.getWord());
     }
 
-    public Map<Integer, TreeSet<WordPosition>> getRightMap() {
+    public Map<Integer, HashSet<WordPosition>> getRightMap() {
         return rightMap;
     }
 
-    public Map<Integer, TreeSet<WordPosition>> getDownMap() {
+    public Map<Integer, HashSet<WordPosition>> getDownMap() {
         return downMap;
     }
 
@@ -731,16 +749,17 @@ public class CrosswordConfiguration implements Serializable, Cloneable {
     @Override
     public CrosswordConfiguration clone() throws CloneNotSupportedException {
         CrosswordConfiguration other = (CrosswordConfiguration) super.clone();
+        other.board = null;
         other.rightWords = new ArrayList<WordPosition>(rightWords);
         other.downWords = new ArrayList<WordPosition>(downWords);
         other.words = new LinkedHashSet<String>(words);
-        other.rightMap = new HashMap<Integer, TreeSet<WordPosition>>();
-        other.downMap = new HashMap<Integer, TreeSet<WordPosition>>();
-        for (Map.Entry<Integer, TreeSet<WordPosition>> entry : rightMap.entrySet()) {
-            other.rightMap.put(entry.getKey(), new TreeSet<WordPosition>(entry.getValue()));
+        other.rightMap = new HashMap<Integer, HashSet<WordPosition>>();
+        other.downMap = new HashMap<Integer, HashSet<WordPosition>>();
+        for (Map.Entry<Integer, HashSet<WordPosition>> entry : rightMap.entrySet()) {
+            other.rightMap.put(entry.getKey(), new HashSet<WordPosition>(entry.getValue()));
         }
-        for (Map.Entry<Integer, TreeSet<WordPosition>> entry : downMap.entrySet()) {
-            other.downMap.put(entry.getKey(), new TreeSet<WordPosition>(entry.getValue()));
+        for (Map.Entry<Integer, HashSet<WordPosition>> entry : downMap.entrySet()) {
+            other.downMap.put(entry.getKey(), new HashSet<WordPosition>(entry.getValue()));
         }
         other.wordsToPositions = new LinkedHashMap<String, WordPosition>();
         for (Map.Entry<String, WordPosition> entry : wordsToPositions.entrySet()) {
@@ -765,18 +784,30 @@ public class CrosswordConfiguration implements Serializable, Cloneable {
         this.height = height;
     }
 
+//    public boolean isSupersetOf(CrosswordConfiguration otherConfig) {
+//        for (WordPosition wp : otherConfig.rightWords) {
+//            if (!rightWords.contains(wp)) {
+//                return false;
+//            }
+//        }
+//        for (WordPosition wp : otherConfig.downWords) {
+//            if (!downWords.contains(wp)) {
+//                return false;
+//            }
+//        }
+//        return true;
+//    }
+
     public boolean isSupersetOf(CrosswordConfiguration otherConfig) {
-        for (WordPosition wp : otherConfig.rightWords) {
-            if (!rightWords.contains(wp)) {
-                return false;
-            }
-        }
-        for (WordPosition wp : otherConfig.downWords) {
-            if (!downWords.contains(wp)) {
+        char[] otherBoard = otherConfig.getBoard();
+        char[] myBoard = this.getBoard();
+        for (int i = 0; i < otherBoard.length; i++) {
+            if (myBoard[i] != otherBoard[i] && otherBoard[i] != ' ') {
                 return false;
             }
         }
         return true;
     }
+
 }
 

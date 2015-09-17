@@ -19,6 +19,7 @@ public class ConfigCollection {
 
     public void add(CrosswordConfiguration config) {
         if (!alreadyWas(config)) {
+
             List<CrosswordConfiguration> toRemove = new ArrayList<>();
             for (CrosswordConfiguration cc : history) {
                 if (config.isSupersetOf(cc)) {
