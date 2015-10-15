@@ -87,7 +87,7 @@ public class LargestWordSquareFinder {
     static void test() {
         timestamp = System.currentTimeMillis();
         System.out.println("Started at: " + new Date(timestamp));
-        List<String> result = findSquare(betterGetTheBucket("WORD.LST"), 10);
+        List<String> result = findSquare(betterGetTheBucket("WORD.LST"), 7);
         if (result != null) {
             for (String s : result) {
                 System.out.println(s);
