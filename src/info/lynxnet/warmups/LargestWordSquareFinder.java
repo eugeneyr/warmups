@@ -26,10 +26,10 @@ public class LargestWordSquareFinder {
 
         counter = 0;
         timestamp = System.currentTimeMillis();
-        return buildSquare(words, x, 0, trie, new ArrayList<String>(x));
+        return buildSquare(x, 0, trie, new ArrayList<String>(x));
     }
 
-    static List<String> buildSquare(Set<String> dictionary, int size, int currIdx, TrieNode trie, List<String> result) {
+    static List<String> buildSquare(int size, int currIdx, TrieNode trie, List<String> result) {
         if (counter % 10000000 == 1) {
             long now = System.currentTimeMillis();
             long difference = ((now - timestamp) / 1000);
@@ -75,7 +75,7 @@ public class LargestWordSquareFinder {
         for (String candidate : megaset) {
             List<String> newList = new LinkedList<String>(result);
             newList.add(candidate);
-            List<String> words = buildSquare(dictionary, size, currIdx + 1, trie, newList);
+            List<String> words = buildSquare(size, currIdx + 1, trie, newList);
             if (words != null) {
                 return words;
             }
