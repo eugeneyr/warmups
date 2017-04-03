@@ -20,11 +20,7 @@ public class PatternMatcher {
             return isMatching(pattern.substring(1), text.substring(1));
         }
         if (pattern.charAt(0) != '*') {
-            if (pattern.charAt(0) == text.charAt(0)) {
-                return isMatching(pattern.substring(1), text.substring(1));
-            } else {
-                return false;
-            }
+            return pattern.charAt(0) == text.charAt(0) && isMatching(pattern.substring(1), text.substring(1));
         }
         for (int i = 1; i < text.length(); i++) {
             if (isMatching(pattern.substring(1), text.substring(i))) {
