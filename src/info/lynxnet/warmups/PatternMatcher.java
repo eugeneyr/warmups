@@ -22,11 +22,15 @@ public class PatternMatcher {
         if (pattern.charAt(0) != '*') {
             return pattern.charAt(0) == text.charAt(0) && isMatching(pattern.substring(1), text.substring(1));
         }
-        for (int i = 1; i < text.length(); i++) {
-            if (isMatching(pattern.substring(1), text.substring(i))) {
-                return true;
-            }
+
+        if (isMatching(pattern.substring(1), text.substring(1))) {
+            return true;
         }
+
+        if (isMatching(pattern, text.substring(1))) {
+            return true;
+        }
+
         return false;
     }
 
